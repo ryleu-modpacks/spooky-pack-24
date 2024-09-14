@@ -523,6 +523,11 @@ hash = "f18fabbc08a475a186ef3a935595aa96b8166b8d25bd21cfcd56a0136ab6a26a"
 metafile = true
 
 [[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "3aa75e307989c0a66a0658b5c6776e8d664d73f55a99e5ff30ef24d4d2918619"
+metafile = true
+
+[[files]]
 file = "mods/insanelib.pw.toml"
 hash = "7b2615e51a4ba294049ef3a3c56df85611221bde95378fb3606eab5c00724e41"
 metafile = true
@@ -565,6 +570,11 @@ metafile = true
 [[files]]
 file = "mods/multi-mine.pw.toml"
 hash = "b72dc00bbe3c4a272c30adc925f84d5b977ad72b03625c6a60fe01d909656d44"
+metafile = true
+
+[[files]]
+file = "mods/multiplayer-server-pause.pw.toml"
+hash = "0c49326a2461565c55ba286f299f6fc8c8c44b026f6059759b5fed6f73e582bf"
 metafile = true
 
 [[files]]
