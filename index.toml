@@ -618,11 +618,6 @@ hash = "90d14db1585b25ea5d2c797faa590ebfe3f0e8b3f42163cb9086f0ba5b834f6c"
 metafile = true
 
 [[files]]
-file = "mods/the-man-from-the-fog.pw.toml"
-hash = "c0754f38ee1d76b137b3f4b2e54c1d5111603aaeacc19a5924dbea7ff35782bc"
-metafile = true
-
-[[files]]
 file = "mods/too-many-nuggets.pw.toml"
 hash = "e2da9035e83e6bbb1b8bfa6b1841df9008322d81bfebb4dc51fda282db6e1e34"
 metafile = true
