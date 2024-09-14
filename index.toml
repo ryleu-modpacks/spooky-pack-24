@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/multi-mine.pw.toml"
-hash = "a5faba5e27f9d6621192e7894a8277fe9301a8974fe41012ac38b8254fcb3fb8"
+hash = "b72dc00bbe3c4a272c30adc925f84d5b977ad72b03625c6a60fe01d909656d44"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/too-many-nuggets.pw.toml"
-hash = "de8a74f8a0b474a966c104cc11233b27edd1eced91c82b06cf6c8b7c32ab336b"
+hash = "e2da9035e83e6bbb1b8bfa6b1841df9008322d81bfebb4dc51fda282db6e1e34"
 metafile = true
 
 [[files]]

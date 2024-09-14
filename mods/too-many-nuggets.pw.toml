@@ -1,13 +1,13 @@
-filename = 'toomanynuggets-1.0.0.jar'
-name = 'Too Many Nuggets'
-side = 'both'
+name = "Too Many Nuggets"
+filename = "toomanynuggets-1.0.0.jar"
+side = "both"
 
 [download]
-hash = 'd9755a448137990afd1b3648902502cb27f3d9c6'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "d9755a448137990afd1b3648902502cb27f3d9c6"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 4661584
 project-id = 892062
