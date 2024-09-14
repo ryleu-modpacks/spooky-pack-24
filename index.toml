@@ -165,6 +165,10 @@ file = "config/hunger_remover.json"
 hash = "3e5cb2cb42eb15788dbfb5646c87772db4e16228be5824f55fcc28914c5f297b"
 
 [[files]]
+file = "config/hungerstrike-common.toml"
+hash = "b206e7ce2c90822d3b9fdf7d463ccc84aafe7359c51ee9259ada58f339f5d5cb"
+
+[[files]]
 file = "config/insanelib-common.toml"
 hash = "9c7a4d601a1f1f7d0630af08c49d2532bf9e514c9b0854826e28d3de67a4cb4b"
 
@@ -514,6 +518,11 @@ hash = "248728d0b4b041ea9c957eacc23a53dd0299794b4ae2a91a46643c39908d45a3"
 metafile = true
 
 [[files]]
+file = "mods/hunger-strike.pw.toml"
+hash = "f18fabbc08a475a186ef3a935595aa96b8166b8d25bd21cfcd56a0136ab6a26a"
+metafile = true
+
+[[files]]
 file = "mods/insanelib.pw.toml"
 hash = "7b2615e51a4ba294049ef3a3c56df85611221bde95378fb3606eab5c00724e41"
 metafile = true
@@ -576,11 +585,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "8f41dbf0de8275e1f9de25acf603e46bd635595cac6d8b984dda32b51439c6b8"
-metafile = true
-
-[[files]]
-file = "mods/retro-hunger-mod.pw.toml"
-hash = "2f547cc2908d3ca9713e474765fedd0fe2e5e3e50f4fe718aa2d290545767524"
 metafile = true
 
 [[files]]

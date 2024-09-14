@@ -1,0 +1,13 @@
+name = "Hunger Strike"
+filename = "HungerStrike-1.20.1-8.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mRmUNjL3/versions/4tO2FWQn/HungerStrike-1.20.1-8.0.0.jar"
+hash-format = "sha512"
+hash = "9be8e43748e7708ff673d88185be6714f205402a1763cc89e02b5c3456770060ba9bbe5adc1d5af1b1ee25d4b922b99416cb08eb7366776f914e5b93ddf56617"
+
+[update]
+[update.modrinth]
+mod-id = "mRmUNjL3"
+version = "4tO2FWQn"
