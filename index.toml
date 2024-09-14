@@ -301,6 +301,94 @@ file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "664d92cb9a7e199c86b3ae6d20e72bde29154f6fc10335a9368a9f66bc0e4be2"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "d5b87dc101e6adafb50b9d3633c090568efd1f7509e6e140caf2a3fc968c289e"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/copper_ore.json"
+hash = "417e7b25addf0e834d9d5ea07d336ee72db4e741ed21561d09d596b64fbf307b"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_coal_ore.json"
+hash = "bf0c6440d649bd408b0ebc5fc57e188e9404362ac03e1efcd39bd33c9e28aafe"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_copper_ore.json"
+hash = "b393e8ef12948eaaeee06293c8240073ae335e1232511d81732fa0624ed36650"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_diamond_ore.json"
+hash = "9c0fea40984150e1b6c026b03ed5dcf2eb020091c9467de662113531f5f7303d"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_emerald_ore.json"
+hash = "296cb1c4db6842340a190a3496977daef08e95b9531cfdf45ade6179cb1059c0"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_gold_ore.json"
+hash = "b082a53841816bad4c13734903a5fd615c28f33978490bfbd6bd5728ae153a01"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_iron_ore.json"
+hash = "e8e2dfa8a91c8ac4811603f86a5cab06251140116792207e5dcd518cc0a4b2f3"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_lapis_ore.json"
+hash = "94e35667cee50791034ec6e368e795b696dff7de24be41b1d148806ff08043b2"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_redstone_ore.json"
+hash = "a112d081cf51424c4b9083ac701347d966d93e3a93262e45fecd315b6660360e"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/diamond_ore.json"
+hash = "0fcb04b8a05a71cb88a3fc04ba06b8a271c390d482413133b1e1ae186eb803fe"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/gold_ore.json"
+hash = "c07a747ee65ef39d9e4708a60c81b6fd71dbe91b26140d9bb06d421079aed574"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/iron_ore.json"
+hash = "6c277d52ed55ef6ee32233ca86df4165d7f1fc9e88c55c1561e366581128675a"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/lapis_ore.json"
+hash = "4b62872ce7780bf98397bd6ed24529bc56361f5479a9d42d3d958764bd653edd"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/redstone_ore.json"
+hash = "44e7bb32f50f1c3870b0be9cba0c131b7ee395517e27556db08ad18c35d3d81d"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "d871c25d09f0885dacfba9345f0742912111ce562f3d51b4d59c48053a621e57"
 metafile = true
