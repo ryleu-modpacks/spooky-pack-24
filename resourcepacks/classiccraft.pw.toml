@@ -1,0 +1,9 @@
+filename = 'ClassicCraft.zip'
+name = 'ClassicCraft'
+side = 'client'
+
+[download]
+hash = 'f4263682e80437950c38b4eb51f43e27ec08ca55cfa6de6fc151bf4bef36af37a26bda8f3f0ad349dacc069df29a3b93904fd9ee38a46ba5402b4ce9e5e6ba98'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://share.ryleu.me/-YtVgr65Uan'

@@ -646,3 +646,13 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "1ad022e96747f252be92210e601de10d9776bc2a83cb3b6240c2fb357990a024"
 metafile = true
+
+[[files]]
+file = "resourcepacks/classiccraft.pw.toml"
+hash = "36c68d13b249c2849f448526ac547e1606f3d6e557dc11b58065adb7baad287d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/psx-shader.pw.toml"
+hash = "cae1e279176423750315d392d152f800c8b34ee870b1c2e60600fdd7f4b7630b"
+metafile = true
