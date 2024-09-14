@@ -13,34 +13,6 @@ file = "config/canary.properties"
 hash = "a37eb7f218ab61f3277a103a85c5bd14ff0abe0dff94e17883bcbb5ea28a3855"
 
 [[files]]
-file = "config/coldsweat/client.toml"
-hash = "e62bf936397310a55ccb5962299e898d8800dde95ccc06ae1d1891a4ded0f853"
-
-[[files]]
-file = "config/coldsweat/entity_settings.toml"
-hash = "ab5c21d3ca41007f89acb41c25a0225efdd86e1dd7c897e1c70c6776b11c122e"
-
-[[files]]
-file = "config/coldsweat/item_settings.toml"
-hash = "929603eeb41e79f9c124610d73c1c09647d0c1d61de0856d8d69d7a9df44470a"
-
-[[files]]
-file = "config/coldsweat/main-1.toml.bak"
-hash = "3a3b7a094251f14253bff30097c37913fcc9c6e8de1e73097a45f61f9d7ef016"
-
-[[files]]
-file = "config/coldsweat/main.toml"
-hash = "b8367eb5ffc8c8af9b6a397b453b0c21c13ad22ac6bada2e1d176d02b9807e7b"
-
-[[files]]
-file = "config/coldsweat/world_settings-1.toml.bak"
-hash = "41455b8f9a87052c7e8b097523e51641a6a37f9096a5a3c1a55d0e8b899d84eb"
-
-[[files]]
-file = "config/coldsweat/world_settings.toml"
-hash = "616bdedeb83496d767c7a70bd94f47fbed6352f7e13641809814d199bcc84de7"
-
-[[files]]
 file = "config/connector.json"
 hash = "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22"
 
@@ -161,10 +133,6 @@ file = "config/hauntedharvest-common.toml"
 hash = "53b5cd8db11da04f495d23e6800497655b0e5b35a56cf4f27a9207c7033af275"
 
 [[files]]
-file = "config/hunger_remover.json"
-hash = "3e5cb2cb42eb15788dbfb5646c87772db4e16228be5824f55fcc28914c5f297b"
-
-[[files]]
 file = "config/hungerstrike-common.toml"
 hash = "b206e7ce2c90822d3b9fdf7d463ccc84aafe7359c51ee9259ada58f339f5d5cb"
 
@@ -242,7 +210,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/sanitydim/default.toml"
-hash = "b9693d59880c4a93113c11390f60af8a102a0fff95c44e0a8adfe3810acf8f00"
+hash = "26207a1594045df9f4dc3da1e8b4af770856b311a3e7dea9b0dc6dca3422b684"
 
 [[files]]
 file = "config/sanitydim/dimension/example.toml"
@@ -251,6 +219,10 @@ hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
 [[files]]
 file = "config/sculkhorde_config.toml"
 hash = "9070b24279f5ffe89a037f2c2c99bb98d79f28162090853ed1d3ccfcae5d4bcc"
+
+[[files]]
+file = "config/serverpause-common.toml"
+hash = "de4d6c723468f1de41a5cee2ef4216bb79460e5ce3aa54e95c25ecce0dffcfbe"
 
 [[files]]
 file = "config/sodiumextras-client.toml"
@@ -385,6 +357,14 @@ file = "kubejs/data/minecraft/loot_tables/blocks/redstone_ore.json"
 hash = "44e7bb32f50f1c3870b0be9cba0c131b7ee395517e27556db08ad18c35d3d81d"
 
 [[files]]
+file = "kubejs/data/minecraft/tags/functions/load.json"
+hash = "f6310b3beed40f716312f6e5c8625afa3cb46ff680be345d5ee85711d04d2c9a"
+
+[[files]]
+file = "kubejs/data/spooky/functions/load.mcfunction"
+hash = "8e1ebc1b69ff6eb384c8279eee8d875e58f09dd799d06b347e7e52db2ad75553"
+
+[[files]]
 file = "kubejs/server_scripts/example.js"
 hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
@@ -515,6 +495,11 @@ metafile = true
 [[files]]
 file = "mods/haunted-harvest.pw.toml"
 hash = "248728d0b4b041ea9c957eacc23a53dd0299794b4ae2a91a46643c39908d45a3"
+metafile = true
+
+[[files]]
+file = "mods/hourglass.pw.toml"
+hash = "33c13017e0a59e5743ac644cf37496622a096c925b708e3bd39de676b1c2fc00"
 metafile = true
 
 [[files]]
