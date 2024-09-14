@@ -1,0 +1,13 @@
+filename = 'GoldenAgeCombat-v8.0.3-1.20.1-Forge.jar'
+name = 'Golden Age Combat'
+side = 'both'
+
+[download]
+hash = '6fde10e90abb26f9c9f42f59effdc11b11378725ca886733842da5a3b5a88f94f5f88ce05f9c46ed27828860396a470c7b4a19de4a600501e1ebc2a74ab2a579'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/U5I04KQ6/versions/GrLbf9EU/GoldenAgeCombat-v8.0.3-1.20.1-Forge.jar'
+
+[update.modrinth]
+mod-id = 'U5I04KQ6'
+version = 'GrLbf9EU'

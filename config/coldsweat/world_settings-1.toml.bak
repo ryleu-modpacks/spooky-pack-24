@@ -1,0 +1,7 @@
+
+#Format: [["dimension_1", temperature1, *units], ["dimension_2", temperature2, *units]... etc]
+#Common dimension IDs: minecraft:overworld, minecraft:the_nether, minecraft:the_end
+[Dimensions]
+	"Dimension Temperatures" = []
+	"Dimension Temperature Offsets" = [["minecraft:the_nether", 0.7, "MC"], ["minecraft:the_end", -0.1, "MC"]]
+

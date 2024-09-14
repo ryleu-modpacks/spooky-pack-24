@@ -1,0 +1,13 @@
+filename = 'moderner-beta-1.4.0+1.20.1-forge.jar'
+name = 'Moderner Beta'
+side = 'both'
+
+[download]
+hash = '7e4ed9289fd434b19b1d3176ceaceb89c8fb04ecbe3a542d72df183a5c296634553fd271396e5646e3d7a34cc1c50dee791eb68fd9c72e15bf9414c6fe24287b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xkrdwmh2/versions/tDYKYmfH/moderner-beta-1.4.0%2B1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'xkrdwmh2'
+version = 'tDYKYmfH'

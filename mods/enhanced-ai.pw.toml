@@ -1,0 +1,13 @@
+filename = 'EnhancedAI-2.4.2-mc1.20.1.jar'
+name = 'Enhanced AI'
+side = 'both'
+
+[download]
+hash = '48650c6cb0d3072268cc04393929963a7d18ff14b472d19eb9a9a5fdc5e26a87f80b56268fe686e71503c31cae0124ab7ca2ed5fdad9f6c1e3d9a1a87626eb5d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TDdoftI1/versions/X6qXUJQf/EnhancedAI-2.4.2-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'TDdoftI1'
+version = 'X6qXUJQf'

@@ -1,0 +1,13 @@
+filename = 'create_jetpack-forge-4.3.1.jar'
+name = 'Create Jetpack'
+side = 'both'
+
+[download]
+hash = '12ec83893cea6c399ccca774ee2043e88058ba05e1e01d73ce951ae24bd3b6e66728e3fe849fb8073a89758f8a0f2e380c3461c6fbc37c7ba7b26f5cdbd1b77a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UbFnAd4l/versions/KAbtupNF/create_jetpack-forge-4.3.1.jar'
+
+[update.modrinth]
+mod-id = 'UbFnAd4l'
+version = 'KAbtupNF'

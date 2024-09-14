@@ -1,0 +1,13 @@
+filename = 'loudhorns-1.20.1-forge-1.0.3.jar'
+name = 'Loud Horns'
+side = 'both'
+
+[download]
+hash = '0391b7d2a5ea5e41426832df4a145379568a22554453007b52766b169df82748ad65747af3444badf0b89a4f53fd18028a9dbeda08daee3f4afa658ed2774b4b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fk6sIZwC/versions/N9zo3Bf5/loudhorns-1.20.1-forge-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'fk6sIZwC'
+version = 'N9zo3Bf5'

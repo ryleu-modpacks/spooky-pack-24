@@ -1,0 +1,94 @@
+{
+	// Percentage of total stamina triggering exhaustion
+	"exhaustedPercentage": 0,
+	// Percentage of total stamina making the player winded
+	"windedPercentage": 5,
+	// Percentage of total stamina making the player fatigued
+	"fatiguedPercentage": 5,
+	// Stamina points depleted per tick while sprinting.
+	"depletionPerTickSprinting": 1.25,
+	// Stamina points depleted per tick while swimming.
+	"depletionPerTickSwimming": 0.612500011920929,
+	// Stamina points depleted per tick while climbing.
+	"depletionPerTickClimbing": 0.0,
+	// Stamina points depleted per jump
+	"depletionPerJump": 0.0,
+	// Stamina points depleted per attack
+	"depletionPerAttack": 0.0,
+	// Stamina points depleted per block broken
+	"depletionPerBlockBroken": 0.0,
+	// Exhaustion slows mining
+	"exhaustionSlowsMining": false,
+	// Can jump while exhausted
+	"canJumpWhileExhausted": true,
+	// Exhaustion causes Darkness
+	"exhaustionBlackout": false,
+	// Exhaustion sounds
+	"exhaustionSounds": false,
+	// Efficiency increases exhaustion
+	"efficiencyExhausts": false,
+	// % of max stamina recovered per tick.
+	"recoveryPerTick": 0.5,
+	// Bonus recovery multiplier for not moving.
+	"recoveryRestBonusMultiplier": 1.0,
+	// Do players recover stamina while walking?
+	"recoverWhileWalking": true,
+	// Do players recover stamina while sneaking?
+	"recoverWhileSneaking": true,
+	// Do players recover stamina when too hungry to sprint?
+	"recoverWhenHungry": true,
+	// Do players recover stamina when not on the ground?
+	"recoverWhileAirborne": true,
+	// Do players recover stamina when submerged?
+	"recoverUnderwater": true,
+	// Do players recover stamina when suffocating?
+	"recoverWhileBreathless": false,
+	// Delay in ticks before starting recovery from exhaustion
+	"recoveryExhaustDelayTicks": 0,
+	// Delay in ticks before starting recovery after depletion
+	"recoveryDelayTicks": 0,
+	// Which formula to use for recovery
+	"formula": "LINEAR",
+	// HUD vertical alignment
+	"alignV": "BOTTOM",
+	// HUD horizontal alignment
+	"alignH": "CENTER",
+	// HUD Display Mode
+	"hudMode": "BAR",
+	// Stamina bar background color
+	"staminaBarBackgroundColor": 2236962,
+	// Stamina bar outline color
+	"staminaBarOutlineColor": 0,
+	// Stamina bar main color
+	"staminaBarColor": 65280,
+	// Stamina bar fatigued color
+	"staminaBarFatiguedColor": 16776960,
+	// Stamina bar winded color
+	"staminaBarWindedColor": 16744448,
+	// Stamina bar nearly exhausted color
+	"staminaBarNearlyExhaustedColor": 16711680,
+	// Stamina bar Tireless effect color
+	"staminaBarTirelessColor": 16691766,
+	// Icon Settings
+	"icon": {
+		// Hud Icon Height
+		"height": 22,
+		// Horizontal offset
+		"offsetY": 1,
+		// Vertical offset
+		"offsetX": 105
+	},
+	// Stamina Bar Settings
+	"bar": {
+		// Stamina bar orientation
+		"orientation": "HORIZONTAL",
+		// Short side (pixels)
+		"shortSide": 2,
+		// Long side (pixels)
+		"longSide": 180,
+		// Horizontal offset
+		"offsetY": 22,
+		// Vertical offset
+		"offsetX": 0
+	}
+}

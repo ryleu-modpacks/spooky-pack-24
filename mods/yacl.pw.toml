@@ -1,0 +1,13 @@
+filename = 'YetAnotherConfigLib-3.5.0+1.20.1-forge.jar'
+name = 'YetAnotherConfigLib'
+side = 'both'
+
+[download]
+hash = 'c6bfce414e6a4142b4e8439ffbe9d2ac8814642669fc8ea1356da88bb96a9b0d77f991ea658059d8d44401f12af6c4b1e91c8a976d80e8b978accbfe964a32c9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1eAoo2KR/versions/C0nuSdTs/YetAnotherConfigLib-3.5.0%2B1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = '1eAoo2KR'
+version = 'C0nuSdTs'

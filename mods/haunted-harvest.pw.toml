@@ -1,0 +1,13 @@
+filename = 'hauntedharvest-1.20-3.1.20.jar'
+name = 'Haunted Harvest'
+side = 'both'
+
+[download]
+hash = 'ffb752db4843aa187649e8c876716a8cb947b832edb9e92a12f7d432da813d02ad6c9699667a7c01ff94ee59d80fbf8ab0423e6747e571d3f3016a78059838f4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/a378ICDH/versions/AYzB8EIo/hauntedharvest-1.20-3.1.20.jar'
+
+[update.modrinth]
+mod-id = 'a378ICDH'
+version = 'AYzB8EIo'

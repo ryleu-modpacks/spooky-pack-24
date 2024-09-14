@@ -1,0 +1,13 @@
+filename = 'darkness-forge-1.20.1-2.0.103-fork.jar'
+name = 'True Darkness [Forge] - Updated Fork'
+side = 'client'
+
+[download]
+hash = '4f4bcb8c9c9ec9b39485ca321bfaf39abf39d66c7abfa19b40ca800c4f9c5d878b3bfdf57ac781ef048ac311609b06f26568cf9dda28a21a9331854fd8d992ba'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mI4xkilT/versions/SvvdOi5A/darkness-forge-1.20.1-2.0.103-fork.jar'
+
+[update.modrinth]
+mod-id = 'mI4xkilT'
+version = 'SvvdOi5A'

@@ -1,0 +1,13 @@
+name = "Spooky Pack 24"
+author = "ryleu"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "62b278b34dd5a7e31927b638a42850d41c8280dcd85dfed9092564e666435009"
+
+[versions]
+forge = "47.3.10"
+minecraft = "1.20.1"

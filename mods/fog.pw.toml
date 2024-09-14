@@ -1,0 +1,13 @@
+filename = 'Fog-forge-1.4.1-1.20.1.jar'
+name = 'Fog'
+side = 'client'
+
+[download]
+hash = 'b58a9af9d9eb2482b2d0651e13263e18ed9b994a97d9b015fdc8366209aa57169608f868f469fd79f4111cac78e9cd1ef3ba556a30605a4b9eaa2075165e4546'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WuGVWUF2/versions/nABmPzXb/Fog-forge-1.4.1-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'WuGVWUF2'
+version = 'nABmPzXb'

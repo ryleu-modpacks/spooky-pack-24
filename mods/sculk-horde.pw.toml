@@ -1,0 +1,13 @@
+filename = 'sculkhorde-1.20.1-0.9.14.jar'
+name = 'Sculk Horde'
+side = 'both'
+
+[download]
+hash = '85d1e7d800e591cab4b531e4136c98761ff56520c344739d770ebe20af09003fe5272e5a19222ee0bfdf07fcd8a26fc269c9e19f789f9dbb262b89b010cb2de5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tBbdvEJc/versions/I89X8sj9/sculkhorde-1.20.1-0.9.14.jar'
+
+[update.modrinth]
+mod-id = 'tBbdvEJc'
+version = 'I89X8sj9'
