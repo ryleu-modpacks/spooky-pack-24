@@ -15,7 +15,7 @@
 	#Set to -1 to retain the default stack size of each food item.  Note: This will affect the entire server, not just players on hunger strike.
 	#WARNING: Setting this property may result in unexpected behavior with other mods.
 	#Range: -1 ~ 64
-	maxFoodStackSize = 1
+	maxFoodStackSize = -1
 	#Controls whether or not the hunger bar is hidden for players on hunger strike.
 	#If the hunger bar is left visible, it will remain filled at half capacity, except when certain potion effects are active like hunger and regeneration.
 	hideHungerBar = true

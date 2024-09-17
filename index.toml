@@ -134,7 +134,7 @@ hash = "53b5cd8db11da04f495d23e6800497655b0e5b35a56cf4f27a9207c7033af275"
 
 [[files]]
 file = "config/hungerstrike-common.toml"
-hash = "b206e7ce2c90822d3b9fdf7d463ccc84aafe7359c51ee9259ada58f339f5d5cb"
+hash = "752485d0be00f490ac2cbc4e6750a9673c034587b80a28951fe7d23edeb5a8f3"
 
 [[files]]
 file = "config/insanelib-common.toml"
@@ -201,10 +201,6 @@ file = "config/oculus.properties"
 hash = "fb9c0763f616868b09c9c178c2c7644e2b7c4578e326d16bd19a705cfee0fa74"
 
 [[files]]
-file = "config/retrodamageindicators-client.toml"
-hash = "99d6538d1161724127219e53da8e38050270af1e76e3fe708c71868e7bb98a88"
-
-[[files]]
 file = "config/ryoamiclights.toml"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -247,26 +243,6 @@ hash = "1bc627d6b0f11a8bf4934f53ce16dc303de837642c242b1fd0ac9b76d686185e"
 [[files]]
 file = "config/staminafortweakers.json5"
 hash = "8eefb30996590c6ba757ade03b9ab65d63210080de329af5cac345396f668057"
-
-[[files]]
-file = "config/waterdripsound-client-1.toml.bak"
-hash = "35f1a8aec9362d2dbd7af676a31266b6ad72ab9e68fe14ccb740da1f4b56303b"
-
-[[files]]
-file = "config/waterdripsound-client-2.toml.bak"
-hash = "35f1a8aec9362d2dbd7af676a31266b6ad72ab9e68fe14ccb740da1f4b56303b"
-
-[[files]]
-file = "config/waterdripsound-client-3.toml.bak"
-hash = "35f1a8aec9362d2dbd7af676a31266b6ad72ab9e68fe14ccb740da1f4b56303b"
-
-[[files]]
-file = "config/waterdripsound-client-4.toml.bak"
-hash = "35f1a8aec9362d2dbd7af676a31266b6ad72ab9e68fe14ccb740da1f4b56303b"
-
-[[files]]
-file = "config/waterdripsound-client-5.toml.bak"
-hash = "35f1a8aec9362d2dbd7af676a31266b6ad72ab9e68fe14ccb740da1f4b56303b"
 
 [[files]]
 file = "config/waterdripsound-client.toml"
