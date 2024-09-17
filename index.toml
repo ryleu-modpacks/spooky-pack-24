@@ -134,7 +134,7 @@ hash = "53b5cd8db11da04f495d23e6800497655b0e5b35a56cf4f27a9207c7033af275"
 
 [[files]]
 file = "config/hungerstrike-common.toml"
-hash = "752485d0be00f490ac2cbc4e6750a9673c034587b80a28951fe7d23edeb5a8f3"
+hash = "b01509ea08398080cfe73778171d9b60611bcf5182fb1388baaed123ef87e61f"
 
 [[files]]
 file = "config/insanelib-common.toml"
