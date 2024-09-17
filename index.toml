@@ -502,6 +502,11 @@ hash = "b085541be584ad69dc83c7737a8d1226f77a4bc2c6f17c9c785986781ec11d2d"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "00322f0c2a1ed0b9e28f823b3c7f5b40d3ede06db32f3d4aa4d1391a994c306a"
+metafile = true
+
+[[files]]
 file = "mods/progression-reborn.pw.toml"
 hash = "18e27abbff15775cb61a7355d2039994ee2cddb075a4e4782798b2396ab48bbb"
 metafile = true
