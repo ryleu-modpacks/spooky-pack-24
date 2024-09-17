@@ -455,22 +455,22 @@
 		#How far away can the mobs see the player. This overrides the vanilla value (16 for most mobs). Setting 'Max' to 0 will leave the follow range as vanilla. I recommend using mods like Mobs Properties Randomness to have more control over the attribute.
 		[Mobs.Targeting."Follow Range Override"]
 			#Range: 0.0 ~ 128.0
-			Minimum = 48.0
+			Minimum = 24.0
 			#Range: 0.0 ~ 128.0
-			Maximum = 64.0
+			Maximum = 32.0
 
 		#How far away can the mobs see the player even through walls. Setting 'Max' to 0 will make mobs not able to see through walls. I recommend using mods like Mobs Properties Randomness to have more control over the attribute; the attribute name is 'enhancedai:generic.xray_follow_range'.
 		[Mobs.Targeting."XRay Range Override"]
 			#Range: 0.0 ~ 128.0
-			Minimum = 24.0
+			Minimum = 12.0
 			#Range: 0.0 ~ 128.0
-			Maximum = 48.0
+			Maximum = 16.0
 
 		[Mobs.Targeting."Hurt by target"]
 			#Mobs will no longer switch target if it's the same or if the current one it's closer.
 			"Better version" = true
 			#Mobs will no longer attack each other.
-			"Prevent infighting" = true
+			"Prevent infighting" = false
 
 		#Chances for a mob to spawn neutral
 		[Mobs.Targeting."Neutral Chances"]
@@ -844,7 +844,7 @@
 
 [Animals]
 	#Makes animals not tempted by food. Use the entity type tag enhancedai:can_ignore_food_temptation to change animals.
-	"Enable Not Tempted Animals" = true
+	"Enable Not Tempted Animals" = false
 	#Make animals fight back or be scared by players. Use the entity type tag enhancedai:can_fight_back and enhancedai:can_be_scared_by_players to add/remove animals.
 	"Enable Animals Scared Attack" = false
 	#Make animals flee/fight back when one is attacked

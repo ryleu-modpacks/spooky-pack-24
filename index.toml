@@ -82,7 +82,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "424a05c15d3d26188044b5962df0dd5583301977a4daf734b0544572d1392017"
+hash = "b7d30e5ea21fb2c99f84e67ec0a3a7fe3c8a2ae74630e31409ce6808ea568327"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
