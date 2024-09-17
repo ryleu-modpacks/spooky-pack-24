@@ -193,10 +193,6 @@ file = "config/multimine.cfg"
 hash = "7b67646a4367924a5e874cc88a77e4da0d4a1ecae90c7bc414306792b52f5e82"
 
 [[files]]
-file = "config/notreepunching.toml"
-hash = "33ef73237c3ef9bd62509b4d91a4be45a6a5b6e6cc152c0e2d04c4bfd071e8a9"
-
-[[files]]
 file = "config/oculus.properties"
 hash = "fb9c0763f616868b09c9c178c2c7644e2b7c4578e326d16bd19a705cfee0fa74"
 
@@ -484,11 +480,6 @@ metafile = true
 [[files]]
 file = "mods/multiplayer-server-pause.pw.toml"
 hash = "0c49326a2461565c55ba286f299f6fc8c8c44b026f6059759b5fed6f73e582bf"
-metafile = true
-
-[[files]]
-file = "mods/no-tree-punching.pw.toml"
-hash = "caced91e26d2085bd4ba1cc053ec403907a085792d8e4f0729c2e3c0dcafbe52"
 metafile = true
 
 [[files]]
