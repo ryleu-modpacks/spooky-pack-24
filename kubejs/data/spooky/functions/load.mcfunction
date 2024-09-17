@@ -1,1 +1,1 @@
-hourglass config daySpeed .5
+gamerule doInsomnia false

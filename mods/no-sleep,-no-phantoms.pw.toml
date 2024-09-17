@@ -1,0 +1,13 @@
+name = "No Sleep, No Phantoms"
+filename = "no_sleeping-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ayUvlhD8/versions/zGg3t4i8/no_sleeping-1.0.0-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "7ce7daf9b7c423cf933b2c8c2b5e1231b8d19498"
+
+[update]
+[update.modrinth]
+mod-id = "ayUvlhD8"
+version = "zGg3t4i8"

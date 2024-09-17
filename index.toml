@@ -278,7 +278,7 @@ hash = "f6310b3beed40f716312f6e5c8625afa3cb46ff680be345d5ee85711d04d2c9a"
 
 [[files]]
 file = "kubejs/data/spooky/functions/load.mcfunction"
-hash = "8e1ebc1b69ff6eb384c8279eee8d875e58f09dd799d06b347e7e52db2ad75553"
+hash = "b65afbf58e4a3a0ef6ecabcce6c7de535778b70742799d86064d1318ffb95af9"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
@@ -414,11 +414,6 @@ hash = "248728d0b4b041ea9c957eacc23a53dd0299794b4ae2a91a46643c39908d45a3"
 metafile = true
 
 [[files]]
-file = "mods/hourglass.pw.toml"
-hash = "33c13017e0a59e5743ac644cf37496622a096c925b708e3bd39de676b1c2fc00"
-metafile = true
-
-[[files]]
 file = "mods/hunger-strike.pw.toml"
 hash = "f18fabbc08a475a186ef3a935595aa96b8166b8d25bd21cfcd56a0136ab6a26a"
 metafile = true
@@ -476,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/multiplayer-server-pause.pw.toml"
 hash = "0c49326a2461565c55ba286f299f6fc8c8c44b026f6059759b5fed6f73e582bf"
+metafile = true
+
+[[files]]
+file = "mods/no-sleep,-no-phantoms.pw.toml"
+hash = "a4cbff0b6567a8dada555386be6b55529d80d2289de685d28d36cec9575fd2fb"
 metafile = true
 
 [[files]]
