@@ -11,5 +11,5 @@ no_reequip_when_using = true
 #LEGACY: The pre-1.9 attributes style, mainly recognizable for using blue text instead of green.
 #MODERN: The current vanilla attribute style.
 #Allowed Values: NONE, LEGACY, MODERN
-attributes_style = "LEGACY"
+attributes_style = "NONE"
 

@@ -122,7 +122,7 @@ hash = "887ab56b28b84932643280912fe29bd66e3f2c7e80c31b114925bfe7a670601b"
 
 [[files]]
 file = "config/goldenagecombat-client.toml"
-hash = "4d25a2cc7aeea5130559565f802d5cb6b6c682746968d0e7168f252fcc04cc51"
+hash = "e1113482657b77e923d109bbda5566179aa0bd086aac0e5fb70899249b8922b6"
 
 [[files]]
 file = "config/goldenagecombat-server.toml"
@@ -171,10 +171,6 @@ hash = "8f2761840207e6e133df740cd06303e52c711f418942300073cf58827a06b989"
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
 hash = "0db60a51b6b7549adf537ab5ea19ddad9e491d4f7ab2e8cf590ef1ebe078dd1a"
-
-[[files]]
-file = "config/man_config.toml"
-hash = "7711302a38b6f3012c5262e10da73433436ffc2a09a03e95c0448a3f8f7e1c88"
 
 [[files]]
 file = "config/moderner_beta.json"
