@@ -245,6 +245,10 @@ file = "config/staminafortweakers.json5"
 hash = "8eefb30996590c6ba757ade03b9ab65d63210080de329af5cac345396f668057"
 
 [[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "0bc058c7a0c8e5232e6b653f0668b9bbd6513f14fcb39714119e6671606030b5"
+
+[[files]]
 file = "config/waterdripsound-client.toml"
 hash = "35f1a8aec9362d2dbd7af676a31266b6ad72ab9e68fe14ccb740da1f4b56303b"
 
