@@ -310,7 +310,7 @@ hash = "69685556c9241d0f8c1c2fe274c56e167177793e359c64cf0861c69ecd3915ab"
 
 [[files]]
 file = "kubejs/data/spooky/functions/death/on_respawn.mcfunction"
-hash = "520b17138a7010ecefb37d29844b15b50a6f3462f0a1345a82eef4d86f8ef434"
+hash = "db1f06ade705a133da85bfe846d2f01ed99ce46892af10e3daad422388a5f17a"
 
 [[files]]
 file = "kubejs/data/spooky/functions/death/tick.mcfunction"
