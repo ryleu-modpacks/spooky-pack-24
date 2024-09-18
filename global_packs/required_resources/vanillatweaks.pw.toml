@@ -1,0 +1,9 @@
+filename = 'VanillaTweaks.zip'
+name = 'VanillaTweaks'
+side = 'client'
+
+[download]
+hash = 'f4c4c0adb9dc1355484efbb44cf078f9bdc0e68d9ea5a81a6916737818172df6ed176b52e925c3ae202a820af9d41a37f9fa273afa23dae0d372b6da359b784a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://share.ryleu.me/-FAwKgs2jfr/VanillaTweaks_r809410_MC1.20.x.zip'

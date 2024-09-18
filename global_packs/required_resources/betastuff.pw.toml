@@ -1,9 +1,0 @@
-filename = 'BetaStuff.zip'
-name = 'BetaStuff'
-side = 'client'
-
-[download]
-hash = '9241ffa40a5e7c6e36aad1df2c908717fc5d71dc21391629b80bde6619b67a2ed0559294fc5ace71a45d212670651790d965dce7e8bd3bf941fbebba246f341c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://share.ryleu.me/-dTziLjAkgi/BetaStuff.zip'
