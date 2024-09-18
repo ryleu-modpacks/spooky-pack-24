@@ -254,6 +254,10 @@ hash = "5fc800f67df180f90ac4579eed9ba595230c4f2fa48d00024c790f2d108be5dc"
 metafile = true
 
 [[files]]
+file = "global_packs/required_resources/betastuff.toml"
+hash = "7e2407e8c77d3aa78a31f19053330634b01bfdf6d1fd5ab78a267ec967b21056"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
