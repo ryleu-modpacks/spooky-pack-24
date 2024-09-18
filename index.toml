@@ -9,6 +9,10 @@ file = "config/WildfireGender/client.toml"
 hash = "126526bdc0c651c1940f14a8c7692016414c319435b6cc9819d118f6dde19984"
 
 [[files]]
+file = "config/ambientsounds-client.json"
+hash = "30e6f14d2925d044a267cd0cc15822afbaa48c5a50d2f89f526617cfd8826da7"
+
+[[files]]
 file = "config/connector.json"
 hash = "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22"
 
