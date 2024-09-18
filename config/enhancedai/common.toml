@@ -485,16 +485,16 @@
 	[Mobs."Biting Mobs"]
 		#The damage dealt to the attacker when bit
 		#Range: 0.0 ~ 1.7976931348623157E308
-		Damage = 3.0
+		Damage = 0.0
 
 		#Chance for a Mob to bite the attacker
 		[Mobs."Biting Mobs".Chance]
 			#Range: 0.0 ~ 1.0
-			"Easy/Peaceful" = 0.2
+			"Easy/Peaceful" = 0.0
 			#Range: 0.0 ~ 1.0
-			Normal = 0.2
+			Normal = 0.0
 			#Range: 0.0 ~ 1.0
-			Hard = 0.3
+			Hard = 0.0
 
 	#Makes mobs be able to move in more ways, like climbing or swim. Only mobs in the enhancedai:allow_climbing entity type tag are allowed to climb.
 	[Mobs.Movement]

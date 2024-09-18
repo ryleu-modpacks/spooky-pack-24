@@ -82,7 +82,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "b7d30e5ea21fb2c99f84e67ec0a3a7fe3c8a2ae74630e31409ce6808ea568327"
+hash = "48f1467ebae28283034482042388fb94e6f16ed5bf02515f125425461b7b1396"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -277,8 +277,60 @@ file = "kubejs/data/minecraft/tags/functions/load.json"
 hash = "f6310b3beed40f716312f6e5c8625afa3cb46ff680be345d5ee85711d04d2c9a"
 
 [[files]]
+file = "kubejs/data/minecraft/tags/functions/tick.json"
+hash = "2c8e0b32ef94e9f09bdf9bfe9d748fbbfc9951bfca75586fbf7bd2dbdc99427b"
+
+[[files]]
+file = "kubejs/data/sanitydim/recipes/garland.json"
+hash = "8bc8dec7454a23de39d883b0a1cfc294452c97da6163775477e0eacf2abc25ee"
+
+[[files]]
+file = "kubejs/data/spooky/advancements/death/died.json"
+hash = "0db0b1219b3ffe80e8245ca1f776fc6bc7b77d4fd7e9136d1295497ad77c8d60"
+
+[[files]]
+file = "kubejs/data/spooky/advancements/death/picked_up_hearts.json"
+hash = "0ce942b7dc6f0bd2149238a16d8e3c3bfb1f0d9deb4aa010dce7967d24780da3"
+
+[[files]]
+file = "kubejs/data/spooky/functions/death/edit_garlands.mcfunction"
+hash = "2226a3311138faad29075eefc3270d344bf14850055cd403a76adb81b465a18a"
+
+[[files]]
+file = "kubejs/data/spooky/functions/death/load.mcfunction"
+hash = "41f5f6352771488ba2eaeb66dbd55cc41e54cf20cffb0a7399e61941a942be30"
+
+[[files]]
+file = "kubejs/data/spooky/functions/death/on_death.mcfunction"
+hash = "f801d37192feb01fa040b291f89250f45709ab09d15c8a15310219c7c3fe3f9f"
+
+[[files]]
+file = "kubejs/data/spooky/functions/death/on_pick_up_hearts.mcfunction"
+hash = "69685556c9241d0f8c1c2fe274c56e167177793e359c64cf0861c69ecd3915ab"
+
+[[files]]
+file = "kubejs/data/spooky/functions/death/on_respawn.mcfunction"
+hash = "520b17138a7010ecefb37d29844b15b50a6f3462f0a1345a82eef4d86f8ef434"
+
+[[files]]
+file = "kubejs/data/spooky/functions/death/tick.mcfunction"
+hash = "aeb3a202c4fee97c12ca9c0456725bd436f04ca2a68a3448c1e845557a0c904f"
+
+[[files]]
+file = "kubejs/data/spooky/functions/death/update_health.mcfunction"
+hash = "6d9ba381dd762cef97cafa4bea7a14729a6968bab5fc19b7482960e30725757b"
+
+[[files]]
 file = "kubejs/data/spooky/functions/load.mcfunction"
-hash = "b65afbf58e4a3a0ef6ecabcce6c7de535778b70742799d86064d1318ffb95af9"
+hash = "96b186a13bcd3b928d5027579cbd834a34fa358ec30587ff79b6fd8ad6ab8273"
+
+[[files]]
+file = "kubejs/data/spooky/functions/tick.mcfunction"
+hash = "df6e9c8bc3167124cc32e44902ae27ad1b19ac79f43fe79d9d95edc22641a86c"
+
+[[files]]
+file = "kubejs/pack.mcmeta"
+hash = "f504435b2a74058e83622730a3aca74cecc921a2998f60aa122f2b3f8a7ffec7"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"

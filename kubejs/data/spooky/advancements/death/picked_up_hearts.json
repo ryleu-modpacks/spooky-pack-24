@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "sanitydim:garland"
+                        ],
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "spooky:death/on_pick_up_hearts"
+    }
+}
