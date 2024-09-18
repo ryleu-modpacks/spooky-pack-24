@@ -130,7 +130,7 @@ hash = "35f1a8aec9362d2dbd7af676a31266b6ad72ab9e68fe14ccb740da1f4b56303b"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/minecraft/tags/functions/load.json"
-hash = "f6310b3beed40f716312f6e5c8625afa3cb46ff680be345d5ee85711d04d2c9a"
+hash = "2ca2ba83b9c11cf3295f3786d3c8b5335257254b2e4ade716022eae29ec457bc"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/minecraft/tags/functions/tick.json"
@@ -138,7 +138,7 @@ hash = "2c8e0b32ef94e9f09bdf9bfe9d748fbbfc9951bfca75586fbf7bd2dbdc99427b"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/sanitydim/recipes/garland.json"
-hash = "8bc8dec7454a23de39d883b0a1cfc294452c97da6163775477e0eacf2abc25ee"
+hash = "0a68f6cb7d4176f6636ba7a38c246136c5aeb11012712787768c5c5445ff8656"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/advancements/death/died.json"
@@ -146,7 +146,7 @@ hash = "0db0b1219b3ffe80e8245ca1f776fc6bc7b77d4fd7e9136d1295497ad77c8d60"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/advancements/death/picked_up_hearts.json"
-hash = "0ce942b7dc6f0bd2149238a16d8e3c3bfb1f0d9deb4aa010dce7967d24780da3"
+hash = "118fbc7a7ec81c6b0f35736c2b62e8f25228366c7e0917f4795e3b986fc14dc9"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/edit_garlands.mcfunction"
