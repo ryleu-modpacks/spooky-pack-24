@@ -6,11 +6,7 @@ hash = "8a95dbd8c802efe96d84857561305ede40cc865d1a3a4e919582e40c77264678"
 
 [[files]]
 file = "config/WildfireGender/client.toml"
-hash = "a6330e8cc370a8c26f304f6bd13e6771de4aeb076e17d95bb1b47b1df0af2690"
-
-[[files]]
-file = "config/canary.properties"
-hash = "a37eb7f218ab61f3277a103a85c5bd14ff0abe0dff94e17883bcbb5ea28a3855"
+hash = "126526bdc0c651c1940f14a8c7692016414c319435b6cc9819d118f6dde19984"
 
 [[files]]
 file = "config/connector.json"
@@ -45,30 +41,6 @@ file = "config/darkness.properties"
 hash = "14cd3aea759e49ac5ee957b9ea8ce93b586026faf64d2e295e482fb28cc7c4dc"
 
 [[files]]
-file = "config/dynamic_fps.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
-
-[[files]]
-file = "config/e4mc/e4mc.toml"
-hash = "6a9c7068c2638733e0dca9c29b52c21847e180092755dcf50c39c1f4ba9a84cb"
-
-[[files]]
-file = "config/embeddium-fingerprint.json"
-hash = "dee2f03494062abb05589c73a821efb2c51cf651929eda325cf01b9f0c4f6d7c"
-
-[[files]]
-file = "config/embeddium-mixins.properties"
-hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
-
-[[files]]
-file = "config/embeddium-options.json"
-hash = "e0dc1439d4152c21650fb786dcbd82a3170f27c7b5b2f33f616a7a1e1cbe8492"
-
-[[files]]
-file = "config/emi.css"
-hash = "42a299d4ab717e46689c1e290344709b5bb2c7ea43ac1ac858ee053bdbe40acb"
-
-[[files]]
 file = "config/enhancedai/Mobs/Break Anger/break_anger_config.json"
 hash = "1ef8dc64a4aead2829923f15a78907e94b33ffb70471416fac0b50c10b14165c"
 
@@ -85,20 +57,8 @@ file = "config/enhancedai/common.toml"
 hash = "48f1467ebae28283034482042388fb94e6f16ed5bf02515f125425461b7b1396"
 
 [[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "76d6350ba38266cbc01c985c17b80143fe6c44f9f79658991fb451beb8b1172f"
-
-[[files]]
-file = "config/ferritecore-mixin.toml"
-hash = "e3ca99e0f233e3bcf8b6762a85b1139f716bf96644318fe9cb022c270461b287"
-
-[[files]]
-file = "config/flywheel-client.toml"
-hash = "0a70d58a4a562c2aa2945a3883d35fa3a8e90d80eab9d6b2db3be6103f71b9b2"
-
-[[files]]
 file = "config/fml.toml"
-hash = "2b9614f647e17ef44ca8b90f296bbf482ac5bb977f8e215eee9a6d1b17eb3bba"
+hash = "907e5b5330e1c9c0458e5a4ed40ba172a1d041e2d0e1e098187e4de8618e68aa"
 
 [[files]]
 file = "config/fog/config.json"
@@ -117,10 +77,6 @@ file = "config/fog/fog_definitions/pack.mcmeta"
 hash = "0c430ce65beba89e206e63890283047f3a85fdd9a6145f03282e16d0b1c689f1"
 
 [[files]]
-file = "config/forge-client.toml"
-hash = "887ab56b28b84932643280912fe29bd66e3f2c7e80c31b114925bfe7a670601b"
-
-[[files]]
 file = "config/goldenagecombat-client.toml"
 hash = "e1113482657b77e923d109bbda5566179aa0bd086aac0e5fb70899249b8922b6"
 
@@ -130,59 +86,11 @@ hash = "13a4315dbb88f1ab4ecfbbb468dc439f266b2ecef6a1568765e5c33338d28d57"
 
 [[files]]
 file = "config/hauntedharvest-common.toml"
-hash = "53b5cd8db11da04f495d23e6800497655b0e5b35a56cf4f27a9207c7033af275"
+hash = "db26bf28929fe9edef0bad64b2c3d75c9439640e4227aef411536cedeb338540"
 
 [[files]]
 file = "config/hungerstrike-common.toml"
 hash = "752485d0be00f490ac2cbc4e6750a9673c034587b80a28951fe7d23edeb5a8f3"
-
-[[files]]
-file = "config/insanelib-common.toml"
-hash = "9c7a4d601a1f1f7d0630af08c49d2532bf9e514c9b0854826e28d3de67a4cb4b"
-
-[[files]]
-file = "config/jei/blacklist.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "9ada5cbec558e34e8854121d6f80a0bf172cf432ccf3bc4ee2dfe1ca128ae279"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "ca6f0515891afed86c30c9d3d8ad1496a7d03de9ea532ab431f2ec1d3968826b"
-
-[[files]]
-file = "config/jei/jei-client.ini"
-hash = "6a8f35c54a9ca4323214ffd3a3eb262d4e68fbf4e91d5b22db7ed86bdda07ce7"
-
-[[files]]
-file = "config/jei/jei-colors.ini"
-hash = "bca5b02f5689992eedefaea160cecac8fd69ee8ae7cee403f5294afbe539e8ce"
-
-[[files]]
-file = "config/jei/jei-debug.ini"
-hash = "e68a8661c36d0b49f22ea21071d1b6e8c092530dc19f199f79fc93849ed67f7c"
-
-[[files]]
-file = "config/jei/jei-mod-id-format.ini"
-hash = "8f2761840207e6e133df740cd06303e52c711f418942300073cf58827a06b989"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "0db60a51b6b7549adf537ab5ea19ddad9e491d4f7ab2e8cf590ef1ebe078dd1a"
-
-[[files]]
-file = "config/moderner_beta.json"
-hash = "09221c5884f2d49db469baa81e6d79a069a0c8cb9a5bf4559c7d889cefe07a59"
-
-[[files]]
-file = "config/moonlight-client.toml"
-hash = "f7135f0beb4eec4e7e3314502086a96a371c73e8fe4249e727b1eb5088ce8725"
-
-[[files]]
-file = "config/moonlight-common.toml"
-hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
 file = "config/multimine.cfg"
@@ -193,16 +101,8 @@ file = "config/oculus.properties"
 hash = "fb9c0763f616868b09c9c178c2c7644e2b7c4578e326d16bd19a705cfee0fa74"
 
 [[files]]
-file = "config/ryoamiclights.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/sanitydim/default.toml"
 hash = "26207a1594045df9f4dc3da1e8b4af770856b311a3e7dea9b0dc6dca3422b684"
-
-[[files]]
-file = "config/sanitydim/dimension/example.toml"
-hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
 
 [[files]]
 file = "config/sculkhorde_config.toml"
@@ -210,27 +110,7 @@ hash = "9070b24279f5ffe89a037f2c2c99bb98d79f28162090853ed1d3ccfcae5d4bcc"
 
 [[files]]
 file = "config/serverpause-common.toml"
-hash = "de4d6c723468f1de41a5cee2ef4216bb79460e5ce3aa54e95c25ecce0dffcfbe"
-
-[[files]]
-file = "config/sodiumextras-client.toml"
-hash = "075dfd8cb44cf7327bddf132adcf7d08384ed261e8ad61cd2fe4a5bd7254c543"
-
-[[files]]
-file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "bf34aa3bdc8472fdc95ccb80cfba2db24633131235b7ae70a80028335db05c54"
-
-[[files]]
-file = "config/sound_physics_remastered/occlusion.properties"
-hash = "a47ab55f9ed808079fcf779e3e9a290d9affd833ca1c16acb20b0138a071d432"
-
-[[files]]
-file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "3fb1d9a4e83864a704c7f0a47a8211a1af34429ea12e6d4460d94b6a41574e19"
-
-[[files]]
-file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "1bc627d6b0f11a8bf4934f53ce16dc303de837642c242b1fd0ac9b76d686185e"
+hash = "d2d4d93a63f26b78ae45f7b2f14e9ce115ebe08d9f35f5f5df54f50d1f1829e9"
 
 [[files]]
 file = "config/staminafortweakers.json5"
@@ -245,8 +125,64 @@ file = "config/waterdripsound-client.toml"
 hash = "35f1a8aec9362d2dbd7af676a31266b6ad72ab9e68fe14ccb740da1f4b56303b"
 
 [[files]]
-file = "config/yacl.json5"
-hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+file = "global_packs/required_data/spooky/data/minecraft/tags/functions/load.json"
+hash = "f6310b3beed40f716312f6e5c8625afa3cb46ff680be345d5ee85711d04d2c9a"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/minecraft/tags/functions/tick.json"
+hash = "2c8e0b32ef94e9f09bdf9bfe9d748fbbfc9951bfca75586fbf7bd2dbdc99427b"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/sanitydim/recipes/garland.json"
+hash = "8bc8dec7454a23de39d883b0a1cfc294452c97da6163775477e0eacf2abc25ee"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/advancements/death/died.json"
+hash = "0db0b1219b3ffe80e8245ca1f776fc6bc7b77d4fd7e9136d1295497ad77c8d60"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/advancements/death/picked_up_hearts.json"
+hash = "0ce942b7dc6f0bd2149238a16d8e3c3bfb1f0d9deb4aa010dce7967d24780da3"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/functions/death/edit_garlands.mcfunction"
+hash = "2226a3311138faad29075eefc3270d344bf14850055cd403a76adb81b465a18a"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/functions/death/load.mcfunction"
+hash = "41f5f6352771488ba2eaeb66dbd55cc41e54cf20cffb0a7399e61941a942be30"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/functions/death/on_death.mcfunction"
+hash = "f801d37192feb01fa040b291f89250f45709ab09d15c8a15310219c7c3fe3f9f"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/functions/death/on_pick_up_hearts.mcfunction"
+hash = "69685556c9241d0f8c1c2fe274c56e167177793e359c64cf0861c69ecd3915ab"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/functions/death/on_respawn.mcfunction"
+hash = "db1f06ade705a133da85bfe846d2f01ed99ce46892af10e3daad422388a5f17a"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/functions/death/tick.mcfunction"
+hash = "aeb3a202c4fee97c12ca9c0456725bd436f04ca2a68a3448c1e845557a0c904f"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/functions/death/update_health.mcfunction"
+hash = "6d9ba381dd762cef97cafa4bea7a14729a6968bab5fc19b7482960e30725757b"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/functions/load.mcfunction"
+hash = "96b186a13bcd3b928d5027579cbd834a34fa358ec30587ff79b6fd8ad6ab8273"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/functions/tick.mcfunction"
+hash = "df6e9c8bc3167124cc32e44902ae27ad1b19ac79f43fe79d9d95edc22641a86c"
+
+[[files]]
+file = "global_packs/required_data/spooky/pack.mcmeta"
+hash = "f504435b2a74058e83622730a3aca74cecc921a2998f60aa122f2b3f8a7ffec7"
 
 [[files]]
 file = "global_packs/required_resources/betastuff.pw.toml"
@@ -256,98 +192,6 @@ metafile = true
 [[files]]
 file = "global_packs/required_resources/betastuff.toml"
 hash = "7e2407e8c77d3aa78a31f19053330634b01bfdf6d1fd5ab78a267ec967b21056"
-
-[[files]]
-file = "kubejs/README.txt"
-hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
-
-[[files]]
-file = "kubejs/client_scripts/example.js"
-hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
-
-[[files]]
-file = "kubejs/config/client.properties"
-hash = "664d92cb9a7e199c86b3ae6d20e72bde29154f6fc10335a9368a9f66bc0e4be2"
-
-[[files]]
-file = "kubejs/config/common.properties"
-hash = "d5b87dc101e6adafb50b9d3633c090568efd1f7509e6e140caf2a3fc968c289e"
-
-[[files]]
-file = "kubejs/data/minecraft/tags/functions/load.json"
-hash = "f6310b3beed40f716312f6e5c8625afa3cb46ff680be345d5ee85711d04d2c9a"
-
-[[files]]
-file = "kubejs/data/minecraft/tags/functions/tick.json"
-hash = "2c8e0b32ef94e9f09bdf9bfe9d748fbbfc9951bfca75586fbf7bd2dbdc99427b"
-
-[[files]]
-file = "kubejs/data/sanitydim/recipes/garland.json"
-hash = "8bc8dec7454a23de39d883b0a1cfc294452c97da6163775477e0eacf2abc25ee"
-
-[[files]]
-file = "kubejs/data/spooky/advancements/death/died.json"
-hash = "0db0b1219b3ffe80e8245ca1f776fc6bc7b77d4fd7e9136d1295497ad77c8d60"
-
-[[files]]
-file = "kubejs/data/spooky/advancements/death/picked_up_hearts.json"
-hash = "0ce942b7dc6f0bd2149238a16d8e3c3bfb1f0d9deb4aa010dce7967d24780da3"
-
-[[files]]
-file = "kubejs/data/spooky/functions/death/edit_garlands.mcfunction"
-hash = "2226a3311138faad29075eefc3270d344bf14850055cd403a76adb81b465a18a"
-
-[[files]]
-file = "kubejs/data/spooky/functions/death/load.mcfunction"
-hash = "41f5f6352771488ba2eaeb66dbd55cc41e54cf20cffb0a7399e61941a942be30"
-
-[[files]]
-file = "kubejs/data/spooky/functions/death/on_death.mcfunction"
-hash = "f801d37192feb01fa040b291f89250f45709ab09d15c8a15310219c7c3fe3f9f"
-
-[[files]]
-file = "kubejs/data/spooky/functions/death/on_pick_up_hearts.mcfunction"
-hash = "69685556c9241d0f8c1c2fe274c56e167177793e359c64cf0861c69ecd3915ab"
-
-[[files]]
-file = "kubejs/data/spooky/functions/death/on_respawn.mcfunction"
-hash = "db1f06ade705a133da85bfe846d2f01ed99ce46892af10e3daad422388a5f17a"
-
-[[files]]
-file = "kubejs/data/spooky/functions/death/tick.mcfunction"
-hash = "aeb3a202c4fee97c12ca9c0456725bd436f04ca2a68a3448c1e845557a0c904f"
-
-[[files]]
-file = "kubejs/data/spooky/functions/death/update_health.mcfunction"
-hash = "6d9ba381dd762cef97cafa4bea7a14729a6968bab5fc19b7482960e30725757b"
-
-[[files]]
-file = "kubejs/data/spooky/functions/load.mcfunction"
-hash = "96b186a13bcd3b928d5027579cbd834a34fa358ec30587ff79b6fd8ad6ab8273"
-
-[[files]]
-file = "kubejs/data/spooky/functions/tick.mcfunction"
-hash = "df6e9c8bc3167124cc32e44902ae27ad1b19ac79f43fe79d9d95edc22641a86c"
-
-[[files]]
-file = "kubejs/pack.mcmeta"
-hash = "f504435b2a74058e83622730a3aca74cecc921a2998f60aa122f2b3f8a7ffec7"
-
-[[files]]
-file = "kubejs/server_scripts/example.js"
-hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
-
-[[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -505,11 +349,6 @@ hash = "f026d9e65006fe6b5997cf6d236797c9299b4f87276ea3b5bf71507c9c47921f"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.pw.toml"
-hash = "a06792fff4cbc89caf70626e2d9299119d0ae1165532f34379d197e6a0eb4395"
-metafile = true
-
-[[files]]
 file = "mods/loud-horns.pw.toml"
 hash = "ee6e31ed409efbe9fac8f8fd90979c7743487bd4b768b8c59f71779b3eae9cfd"
 metafile = true
@@ -567,11 +406,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "8f41dbf0de8275e1f9de25acf603e46bd635595cac6d8b984dda32b51439c6b8"
-metafile = true
-
-[[files]]
-file = "mods/rhino.pw.toml"
-hash = "4bcff340f498761ef812b0068c601e5514c942544c746e1a51c47f1e5d2ebc65"
 metafile = true
 
 [[files]]

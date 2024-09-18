@@ -7,7 +7,7 @@
 	pumpkin_carve_mode = "BOTH"
 	#Jack o Lantern carving mode
 	#Allowed Values: NONE, BOTH, GUI, MANUAL
-	jack_o_lantern_carve_mode = "NONE"
+	jack_o_lantern_carve_mode = "BOTH"
 
 [halloween_season]
 	#Month from which villagers will start placing pumpkins & trick or treating
@@ -15,7 +15,7 @@
 	start_month = 10
 	#Day from which villagers will start placing pumpkins & trick or treating
 	#Range: 1 ~ 31
-	start_day = 20
+	start_day = 10
 	#Month from which villagers will start removing placed pumpkins
 	#Range: 1 ~ 12
 	end_month = 11
@@ -26,13 +26,13 @@
 [mob_pumpkins_season]
 	#Chance for a mob to wear a pumpkin. All this does not affect vanilla halloween behavior
 	#Range: 0.0 ~ 1.0
-	wear_chance = 0.25
+	wear_chance = 0.01
 	#Day from which zombies and skeletons can wear pumpkins
 	#Range: 1 ~ 12
 	start_month = 10
 	#Day from which zombies and skeletons can wear pumpkins
 	#Range: 1 ~ 31
-	start_day = 30
+	start_day = 10
 	#Day from which zombies and skeletons can wear pumpkins
 	#Range: 1 ~ 12
 	end_month = 10
@@ -55,7 +55,7 @@
 
 [general]
 	#Enable Creative Tab
-	creative_tab = false
+	creative_tab = true
 	#Enables custom Configured config screen
 	custom_configured_screen = true
 
