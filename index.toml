@@ -249,8 +249,9 @@ file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
-file = "global_packs/required_resources/betastuff.toml"
+file = "global_packs/required_resources/betastuff.pw.toml"
 hash = "5fc800f67df180f90ac4579eed9ba595230c4f2fa48d00024c790f2d108be5dc"
+metafile = true
 
 [[files]]
 file = "kubejs/README.txt"
