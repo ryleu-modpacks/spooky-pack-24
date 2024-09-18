@@ -249,6 +249,10 @@ file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
+file = "global_packs/required_resources/betastuff.toml"
+hash = "5fc800f67df180f90ac4579eed9ba595230c4f2fa48d00024c790f2d108be5dc"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -456,6 +460,11 @@ hash = "bf389be3eb98fccaafa7b037da8d30b541769b5f7957b2d15a827e0622fd336e"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "4af3085e1acb71c9eed4a35981f14b542fb986bf8a4afa2fa6f02e9e86117227"
+metafile = true
+
+[[files]]
 file = "mods/golden-age-combat.pw.toml"
 hash = "c7030d251f20f6e33aae98f5ac9d0420a73d84479f195a10f83cebe752e2bb7d"
 metafile = true
@@ -608,11 +617,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "1ad022e96747f252be92210e601de10d9776bc2a83cb3b6240c2fb357990a024"
-metafile = true
-
-[[files]]
-file = "resourcepacks/classiccraft.pw.toml"
-hash = "36c68d13b249c2849f448526ac547e1606f3d6e557dc11b58065adb7baad287d"
 metafile = true
 
 [[files]]
