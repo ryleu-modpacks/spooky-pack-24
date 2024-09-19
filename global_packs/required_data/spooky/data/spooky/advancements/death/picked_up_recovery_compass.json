@@ -6,7 +6,7 @@
         "items": [
           {
             "items": [
-              "sanitydim:garland"
+              "minecraft:recovery_compass"
             ]
           }
         ]
@@ -14,6 +14,6 @@
     }
   },
   "rewards": {
-    "function": "spooky:death/on_pick_up_hearts"
+    "function": "spooky:death/on_pick_up_recovery_compass"
   }
 }

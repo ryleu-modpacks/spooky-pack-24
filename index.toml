@@ -129,6 +129,14 @@ file = "config/waterdripsound-client.toml"
 hash = "35f1a8aec9362d2dbd7af676a31266b6ad72ab9e68fe14ccb740da1f4b56303b"
 
 [[files]]
+file = "global_packs/required_data/spooky/data/minecraft/loot_tables/entities/warden.json"
+hash = "ae687ba0cf1e5e4ac41d5bb6279e502d3dd215b3d22bf31e557f926d6d9778f5"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/minecraft/recipes/recovery_compass.json"
+hash = "096216968d4669473bbff85f4e56dccb6fef3fd347f95289533a3bfe0a499bc4"
+
+[[files]]
 file = "global_packs/required_data/spooky/data/minecraft/tags/functions/load.json"
 hash = "2ca2ba83b9c11cf3295f3786d3c8b5335257254b2e4ade716022eae29ec457bc"
 
@@ -146,7 +154,11 @@ hash = "0db0b1219b3ffe80e8245ca1f776fc6bc7b77d4fd7e9136d1295497ad77c8d60"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/advancements/death/picked_up_hearts.json"
-hash = "118fbc7a7ec81c6b0f35736c2b62e8f25228366c7e0917f4795e3b986fc14dc9"
+hash = "17d8230a2fa8e2aa5a59a6ba2a54f55ffc5bf6ca57beff9b77613e90b1ad8175"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/advancements/death/picked_up_recovery_compass.json"
+hash = "d3e8ccfe4c1cc3bac665abaac35643b287f04b72fca986a543472929cf928f1a"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/edit_garlands.mcfunction"
@@ -154,27 +166,39 @@ hash = "2226a3311138faad29075eefc3270d344bf14850055cd403a76adb81b465a18a"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/load.mcfunction"
-hash = "41f5f6352771488ba2eaeb66dbd55cc41e54cf20cffb0a7399e61941a942be30"
+hash = "52caddc955176c445f9a8f6eec062559cd6270ddc3b87ce27f525a5ebf04b4fa"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/on_death.mcfunction"
-hash = "f801d37192feb01fa040b291f89250f45709ab09d15c8a15310219c7c3fe3f9f"
+hash = "2d92484772e9f1aca2f4bd9f478d19b48c19ef9e8189e4fdfe03f4512b60987a"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/functions/death/on_healthy_death.mcfunction"
+hash = "18b78617458e86df0e744a32c407a0c34b13dd82d733f54283e86c81d18d1c37"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/on_pick_up_hearts.mcfunction"
 hash = "69685556c9241d0f8c1c2fe274c56e167177793e359c64cf0861c69ecd3915ab"
 
 [[files]]
+file = "global_packs/required_data/spooky/data/spooky/functions/death/on_pick_up_recovery_compass.mcfunction"
+hash = "98875fb7c0db011376d8edc95e7168eaceaf00fdfea1a8d08a693e74823f8aef"
+
+[[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/on_respawn.mcfunction"
-hash = "db1f06ade705a133da85bfe846d2f01ed99ce46892af10e3daad422388a5f17a"
+hash = "9a678df2d940ac2fa9b923478af10fca0a41e6af7317a40379f1cca446aa40d2"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/tick.mcfunction"
-hash = "aeb3a202c4fee97c12ca9c0456725bd436f04ca2a68a3448c1e845557a0c904f"
+hash = "f882508eaff8704fe273f29c9dcc56786731f668d16154b0a1877fe80636426f"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/update_health.mcfunction"
 hash = "6d9ba381dd762cef97cafa4bea7a14729a6968bab5fc19b7482960e30725757b"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/functions/death/update_recovery_compass.mcfunction"
+hash = "47c3acead31c01cd71533e4ab3c0553b02c5a785df886abec650f7b3de285660"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/load.mcfunction"
@@ -187,6 +211,14 @@ hash = "df6e9c8bc3167124cc32e44902ae27ad1b19ac79f43fe79d9d95edc22641a86c"
 [[files]]
 file = "global_packs/required_data/spooky/pack.mcmeta"
 hash = "f504435b2a74058e83622730a3aca74cecc921a2998f60aa122f2b3f8a7ffec7"
+
+[[files]]
+file = "global_packs/required_resources/spooky/assets/minecraft/models/item/compass.json"
+hash = "bd0c9888294f6b009884e5761a2320a5059a2bf2da45c7d171da3da6311a90c5"
+
+[[files]]
+file = "global_packs/required_resources/spooky/pack.mcmeta"
+hash = "984a941fe95586806431a30cb830894d0bbd885b18d43b283719b52398c9d946"
 
 [[files]]
 file = "global_packs/required_resources/vanillatweaks.pw.toml"
