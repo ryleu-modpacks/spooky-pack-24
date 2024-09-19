@@ -190,7 +190,7 @@ hash = "9a678df2d940ac2fa9b923478af10fca0a41e6af7317a40379f1cca446aa40d2"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/tick.mcfunction"
-hash = "f882508eaff8704fe273f29c9dcc56786731f668d16154b0a1877fe80636426f"
+hash = "45575f56eb4a829c0813355efc2bc66bde3307f19201d4c5fee0c5b835feff68"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/update_health.mcfunction"
