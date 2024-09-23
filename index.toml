@@ -356,6 +356,11 @@ hash = "248728d0b4b041ea9c957eacc23a53dd0299794b4ae2a91a46643c39908d45a3"
 metafile = true
 
 [[files]]
+file = "mods/hourglass.pw.toml"
+hash = "f7111a197c3e4748c1c35283b10605503025c8c57f1410da5d5442c63c7ba410"
+metafile = true
+
+[[files]]
 file = "mods/hunger-strike.pw.toml"
 hash = "f18fabbc08a475a186ef3a935595aa96b8166b8d25bd21cfcd56a0136ab6a26a"
 metafile = true
