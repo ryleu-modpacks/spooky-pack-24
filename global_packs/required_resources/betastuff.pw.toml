@@ -1,0 +1,9 @@
+filename = 'BetaStuff.zip'
+name = 'BetaStuff'
+side = 'client'
+
+[download]
+hash = 'd5cfe7810556fff739c621377c2a514feb5c913fad20cc6f2388507241b4739f65260288a386eb5a5ab469f6cfffe68680a3e7442b09288e765ce51535662bc1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://share.ryleu.me/-qD8KrDLmps'
