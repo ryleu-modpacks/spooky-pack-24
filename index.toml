@@ -257,6 +257,11 @@ hash = "f1d24ff14263365de98c97164127f36d87878e6545772e840b03f19883c9315f"
 metafile = true
 
 [[files]]
+file = "mods/arphex.pw.toml"
+hash = "f362bee76fc8945fdcfbe97da74cc49af7c53a53a6dc9da8eda94e2e3ab94c2e"
+metafile = true
+
+[[files]]
 file = "mods/beans-backpacks.pw.toml"
 hash = "a45d935f5252f5a75fe0866c956376781023e852df3660e3b4b6cd29cb1d1a45"
 metafile = true

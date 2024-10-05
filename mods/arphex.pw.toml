@@ -1,0 +1,13 @@
+name = "Arthropod Phobia Expansions + Horror Bosses Spider Moth Dweller"
+filename = "ArPhEx-3.1.7c-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k0RPP4IO/versions/r4pT2Wvn/ArPhEx-3.1.7c-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "d2d4ed51f6556c8931a984bb80df81f8bee52e32ca392a7198d1aecf4d20ceb958b00fbaf0a5764434bb7f0ce90747961c4d89bb3c5e12b2f40e2cfc59500756"
+
+[update]
+[update.modrinth]
+mod-id = "k0RPP4IO"
+version = "r4pT2Wvn"

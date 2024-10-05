@@ -1,6 +1,6 @@
 {
-  "armorPercentage": 0.5,
-  "protectionPerPoint": 0.02,
+  "armorPercentage": 0.7,
+  "protectionPerPoint": 0.03,
   "removeArmorLimit": true,
   "armorFormula": "vanilla"
 }
