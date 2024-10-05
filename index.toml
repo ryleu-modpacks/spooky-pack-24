@@ -105,6 +105,10 @@ file = "config/hungerstrike-common.toml"
 hash = "752485d0be00f490ac2cbc4e6750a9673c034587b80a28951fe7d23edeb5a8f3"
 
 [[files]]
+file = "config/man_config.toml"
+hash = "06c313bfcc65c35b7c7836bb45664dbe5e83707b58fbe4a494b214fefdc1d01a"
+
+[[files]]
 file = "config/multimine.cfg"
 hash = "7b67646a4367924a5e874cc88a77e4da0d4a1ecae90c7bc414306792b52f5e82"
 
@@ -515,6 +519,11 @@ metafile = true
 [[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
 hash = "90d14db1585b25ea5d2c797faa590ebfe3f0e8b3f42163cb9086f0ba5b834f6c"
+metafile = true
+
+[[files]]
+file = "mods/the-man-from-the-fog.pw.toml"
+hash = "967716e23b3b4461689b39b3d16b3b5451fada33eb4a46118c439336b8f26930"
 metafile = true
 
 [[files]]
