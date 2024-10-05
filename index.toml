@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/extensions.json"
+hash = "275ca9f1b4e68c31bde0bfe46aebbd61da86a3452951842207824ec1a7e6df89"
+
+[[files]]
 file = "README.md"
 hash = "8a95dbd8c802efe96d84857561305ede40cc865d1a3a4e919582e40c77264678"
 
@@ -11,6 +15,10 @@ hash = "126526bdc0c651c1940f14a8c7692016414c319435b6cc9819d118f6dde19984"
 [[files]]
 file = "config/ambientsounds-client.json"
 hash = "30e6f14d2925d044a267cd0cc15822afbaa48c5a50d2f89f526617cfd8826da7"
+
+[[files]]
+file = "config/armor-nerf.json5"
+hash = "8286098e5afc19a94b1ff1430336ab83687a10a2209eaae539089fa58946a8e9"
 
 [[files]]
 file = "config/connector.json"
@@ -205,8 +213,12 @@ file = "global_packs/required_data/spooky/data/spooky/functions/load.mcfunction"
 hash = "5e2cbad97cc20a30767ba5ff21d177c678609364061d7c1de2e2b1dc5d7a1f00"
 
 [[files]]
+file = "global_packs/required_data/spooky/data/spooky/functions/sanity/tick.mcfunction"
+hash = "f525174c52887e4fe9a8759961c48fe7280afcdba2abcaf29d305bd8c5776f62"
+
+[[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/tick.mcfunction"
-hash = "df6e9c8bc3167124cc32e44902ae27ad1b19ac79f43fe79d9d95edc22641a86c"
+hash = "87aa8c38425a3f58c2b29ad0da3cdd458748fc5ff97d60b7f8c3d22ac6a410b7"
 
 [[files]]
 file = "global_packs/required_data/spooky/pack.mcmeta"
@@ -236,6 +248,11 @@ hash = "d871c25d09f0885dacfba9345f0742912111ce562f3d51b4d59c48053a621e57"
 metafile = true
 
 [[files]]
+file = "mods/armor-nerf.pw.toml"
+hash = "f1d24ff14263365de98c97164127f36d87878e6545772e840b03f19883c9315f"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "155f957dbf3a6326962f20c1f7b236e7cb4f228cf37e850caac799a0ee53f59c"
 metafile = true
@@ -252,12 +269,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "569a96a215c7161b6364cb17b7ce1f12ecc3c165f69a929934d1fe744c9d0e0f"
+hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "10d6c27bdb21eb3cd38089831856fe51635ff0ff40c41b768dc67077c4100d0d"
+hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
 
 [[files]]
@@ -297,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "cd75084f326283600b72917a0ab77211df3111f7ed477bbcdb10cc4ec85c7440"
+hash = "add086c3c9a7f8afccd5458748d9d4349963ff410c175a7c83fec149f9229bb3"
 metafile = true
 
 [[files]]
@@ -317,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/female-gender.pw.toml"
-hash = "770d225337c9d749b2ab3d8f524f55fbdaea7640b3994497895b6acbc1d838b1"
+hash = "e5223fdcd1bdb827f387e077ebb964f849cd4e58c2d3ea763fc199e7a7278f48"
 metafile = true
 
 [[files]]
@@ -332,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "28493ea1ad0c47e4fbe2a52e5b1a6d8881ef87a310a0c2ccb15ed4bc9121c90c"
+hash = "73731fbf0a731554608aaa9705f51036892f1fe92606a93594f689e7227a5056"
 metafile = true
 
 [[files]]
@@ -433,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "b085541be584ad69dc83c7737a8d1226f77a4bc2c6f17c9c785986781ec11d2d"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
