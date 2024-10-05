@@ -18,7 +18,7 @@ hash = "30e6f14d2925d044a267cd0cc15822afbaa48c5a50d2f89f526617cfd8826da7"
 
 [[files]]
 file = "config/armor-nerf.json5"
-hash = "8286098e5afc19a94b1ff1430336ab83687a10a2209eaae539089fa58946a8e9"
+hash = "2a6043f87b5aec589d52a8125578fd72285172da42561ed9645effdf8405424d"
 
 [[files]]
 file = "config/connector.json"
