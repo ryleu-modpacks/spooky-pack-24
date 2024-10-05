@@ -106,7 +106,7 @@ hash = "752485d0be00f490ac2cbc4e6750a9673c034587b80a28951fe7d23edeb5a8f3"
 
 [[files]]
 file = "config/man_config.toml"
-hash = "06c313bfcc65c35b7c7836bb45664dbe5e83707b58fbe4a494b214fefdc1d01a"
+hash = "5b91484e2d531af429e2e596567f61d8978bbd9b39738747f32d0e52ded6efff"
 
 [[files]]
 file = "config/multimine.cfg"
