@@ -253,6 +253,11 @@ hash = "f1d24ff14263365de98c97164127f36d87878e6545772e840b03f19883c9315f"
 metafile = true
 
 [[files]]
+file = "mods/beans-backpacks.pw.toml"
+hash = "a45d935f5252f5a75fe0866c956376781023e852df3660e3b4b6cd29cb1d1a45"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "155f957dbf3a6326962f20c1f7b236e7cb4f228cf37e850caac799a0ee53f59c"
 metafile = true
@@ -395,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/insanelib.pw.toml"
 hash = "7b2615e51a4ba294049ef3a3c56df85611221bde95378fb3606eab5c00724e41"
+metafile = true
+
+[[files]]
+file = "mods/ironchests.pw.toml"
+hash = "9f7a8ad731e2454ad29de4bc85ed100eff8f21f0516fa9a8cf58939ad2ba16cf"
 metafile = true
 
 [[files]]
