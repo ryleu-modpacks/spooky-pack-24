@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".vscode/extensions.json"
-hash = "275ca9f1b4e68c31bde0bfe46aebbd61da86a3452951842207824ec1a7e6df89"
-
-[[files]]
 file = "README.md"
 hash = "8a95dbd8c802efe96d84857561305ede40cc865d1a3a4e919582e40c77264678"
 
@@ -139,6 +135,10 @@ hash = "0bc058c7a0c8e5232e6b653f0668b9bbd6513f14fcb39714119e6671606030b5"
 [[files]]
 file = "config/waterdripsound-client.toml"
 hash = "35f1a8aec9362d2dbd7af676a31266b6ad72ab9e68fe14ccb740da1f4b56303b"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "4fec26986599b4f95d4ab90562d27d8cee3673126bbfbaff485f4dcb82c9b956"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/minecraft/loot_tables/entities/warden.json"
@@ -377,6 +377,11 @@ hash = "bf389be3eb98fccaafa7b037da8d30b541769b5f7957b2d15a827e0622fd336e"
 metafile = true
 
 [[files]]
+file = "mods/geotagged-screenshots.pw.toml"
+hash = "8915bce95d281c47411f26dacb6a86ba962705dbe32983c7a893b9c362ada4c6"
+metafile = true
+
+[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "4af3085e1acb71c9eed4a35981f14b542fb986bf8a4afa2fa6f02e9e86117227"
 metafile = true
@@ -539,6 +544,16 @@ metafile = true
 [[files]]
 file = "mods/waterdripsound.pw.toml"
 hash = "9f55ca27c2302ae78b762d79767d00dae98a7aa559632575ab860721a054907c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "d7796a2299ba30838876268c157a8940935ad92043726509a2ef14dfa1407983"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "8e3026324227122e65ef891db279aa84191611f26d29e5dbd92e0bd2ce048b6d"
 metafile = true
 
 [[files]]
