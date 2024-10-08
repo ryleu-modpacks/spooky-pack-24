@@ -447,6 +447,11 @@ hash = "11d4e0c52fa9f80dde73677e7d9e967688ac6343a4c6bbe71309343cf6b6fe46"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "06d274b513cab03b5f60620feabfebf87599da0e91592c27671ddd110fb6e547"
 metafile = true
