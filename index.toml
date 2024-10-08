@@ -472,6 +472,11 @@ hash = "0c49326a2461565c55ba286f299f6fc8c8c44b026f6059759b5fed6f73e582bf"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
 file = "mods/no-sleep,-no-phantoms.pw.toml"
 hash = "a4cbff0b6567a8dada555386be6b55529d80d2289de685d28d36cec9575fd2fb"
 metafile = true
