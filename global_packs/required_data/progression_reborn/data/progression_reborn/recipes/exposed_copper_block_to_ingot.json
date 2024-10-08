@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:exposed_copper"
+    }
+  ],
+  "result": {
+    "item": "progression_reborn:exposed_copper_ingot",
+    "count": 9
+  }
+}

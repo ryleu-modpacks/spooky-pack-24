@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+      "item": "minecraft:honeycomb"
+    },
+    "base": {
+        "item": "progression_reborn:copper_boots"
+    },
+    "addition": {
+        "item": "progression_reborn:oxidized_copper_ingot"
+    },
+    "result": {
+        "item": "progression_reborn:waxed_oxidized_copper_boots"
+    }
+}

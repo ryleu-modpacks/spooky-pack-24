@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "experience": 0.5,
+  "cookingtime": 900,
+  "ingredient": {
+    "item": "progression_reborn:rotten_leather"
+  },
+  "result": "minecraft:leather"
+}

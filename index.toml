@@ -141,6 +141,862 @@ file = "config/xaerominimap.txt"
 hash = "4fec26986599b4f95d4ab90562d27d8cee3673126bbfbaff485f4dcb82c9b956"
 
 [[files]]
+file = "global_packs/required_data/progression_reborn/data/chrysalis/tags/items/immune_to_fire.json"
+hash = "d9ed0cb97b44bccccd08152045c5eb0189798318e8d7e2d63b6989f58d3b3ff9"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/end_reborn/recipes/craft_remnant_upgrade_smithing_template.json"
+hash = "02053664b19318e47eede5d0ad42865b0bb6ec8f342fc41a7cc5323fa8c310d8"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/mineable/needs_tool_level_0.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/mineable/needs_tool_level_1.json"
+hash = "d49bd5ca341c5f38a409f79ea29addcb7686c63cb87d7114ba59ab447cfe73d1"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/mineable/needs_tool_level_2.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/mineable/needs_tool_level_3.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/mineable/needs_tool_level_4.json"
+hash = "4908fa099ac81f6b610ea5828647fb4b7c207d0bae921774fab9d4835b2b8294"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/mineable/needs_tool_level_5.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/mineable/needs_tool_level_6.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/mineable/needs_tool_level_7.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/needs_tool_level_0.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/needs_tool_level_1.json"
+hash = "4551fd74f1c8a897b3167d1cfd19f0a4fb148b0068214b71366a804b8928fe23"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/needs_tool_level_10.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/needs_tool_level_2.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/needs_tool_level_3.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/needs_tool_level_4.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/needs_tool_level_5.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/needs_tool_level_6.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/needs_tool_level_7.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/needs_tool_level_8.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/fabric/tags/blocks/needs_tool_level_9.json"
+hash = "079b89f1b95b95b5e065eb3cd0dd9024f07cfb7dff103fc1f136f29812692a47"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/blocks/copper_ore.json"
+hash = "c7f62a3eb2c99a406693d91f36ceb6c4d291a219a5cdfebead113bfa64f04b93"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/blocks/deepslate_coal_ore.json"
+hash = "bf0c6440d649bd408b0ebc5fc57e188e9404362ac03e1efcd39bd33c9e28aafe"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/blocks/deepslate_copper_ore.json"
+hash = "b2eedf39286b5ac05ed190f785b0a6df14acfa9aa06dc37b374af8a6944810c4"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/blocks/deepslate_diamond_ore.json"
+hash = "f4d2e77bbf8c42999e963c8859c8451678729c80c6ae092c9027cb03454f21dd"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/blocks/deepslate_emerald_ore.json"
+hash = "296cb1c4db6842340a190a3496977daef08e95b9531cfdf45ade6179cb1059c0"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/blocks/deepslate_gold_ore.json"
+hash = "6539d6d79be9dd88df187a98e3aff0dfa514e26328a16f58d5a5f1d12d42ff51"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/blocks/deepslate_iron_ore.json"
+hash = "60cd26dd1b2ab15e4d0bb94c45487c3c136309a7f2f88791352c81cdd21505c8"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/blocks/deepslate_lapis_ore.json"
+hash = "94e35667cee50791034ec6e368e795b696dff7de24be41b1d148806ff08043b2"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/blocks/deepslate_redstone_ore.json"
+hash = "a112d081cf51424c4b9083ac701347d966d93e3a93262e45fecd315b6660360e"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/blocks/diamond_ore.json"
+hash = "911f6cc3e0aec1e36436f8c3e90b6153726a65ba491abcc69fe14ec93f865cf4"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/blocks/gold_ore.json"
+hash = "f80faae25fac8bb3c49dc3e77e5d2892f5f1a80c7b618c95fab0b4e2b2aa4323"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/blocks/iron_ore.json"
+hash = "10e88ad4e343f576dd001782dbd6567a2ced1c8ad5ae0aa91b2a22b501c275b6"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/blocks/lapis_ore.json"
+hash = "4b62872ce7780bf98397bd6ed24529bc56361f5479a9d42d3d958764bd653edd"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/blocks/nether_gold_ore.json"
+hash = "9c93dd7827eee977f47ee3dfd4fb6eff953950d5e483e4a14f6f7ab2aa34b93a"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/blocks/redstone_ore.json"
+hash = "44e7bb32f50f1c3870b0be9cba0c131b7ee395517e27556db08ad18c35d3d81d"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/chests/abandoned_mineshaft.json"
+hash = "e8080b482ec7fc293b0d3cac8bf2ea7329a8a7ce3e477ae6b22a54056dbf5f87"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/chests/bastion_bridge.json"
+hash = "5af7c2f580349f2450cd0f657f0e93ed50d7edccad3de5cc3265dfd9e92ec5a3"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/chests/bastion_other.json"
+hash = "10d2358a8e2df28fbc9b2b26d7997c81b5743dc6355bab34e87fef5f0f2d022c"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/chests/bastion_treasure.json"
+hash = "7943840074e38c01c1bfb7276cc1b1b27854ce350c475a93c95e416864bb7b54"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/chests/gameplay/piglin_bartering.json"
+hash = "da672107683af508bd70e5f4efac23044bb5437a9ebc18a4155b0dbbeba3d8bd"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/chests/nether_bridge.json"
+hash = "093bbd07488501854be44a1b06041f76bd66f12dff60a4030030dcc827be0bd8"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/chests/village/village_weaponsmith.json"
+hash = "93434d397a2e890a99ca7232d10cb03db9cdc3f7cf56dcdd5b484d6fc53c6e24"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/loot_tables/entities/iron_golem.json"
+hash = "56f96aaff576b1cafe3f74c2743076040a1f98d883d6555f6bc8e0868c65231f"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/chain.json"
+hash = "5b5ac2721b11300c1ce0c9984332268e40cfe8676daed22a3cbaf4138d60e59b"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/iron_axe.json"
+hash = "01438b4126f3ad651f5eb4b80c89d3219f081aa9a4bf85da240274f5f8b99384"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/iron_boots.json"
+hash = "23f24fe74ff330d482c0c9fa1f40db39843d64784bb6ee238f5542cb67f67e1a"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/iron_chestplate.json"
+hash = "07b2f21b067fc9f9850c98b4b63b6a47217f35b5c22ea519b313c486ebde6bd2"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/iron_helmet.json"
+hash = "5499411820e08b9dffcb3761407adcbec932cb5b9ec9c618e678a78a25d390e9"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/iron_hoe.json"
+hash = "b8a7c3f571fb91ab937f8c85ea31835dfde4d64625ddb9fcc5ad356cf9c82f82"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/iron_leggings.json"
+hash = "e74a4528751c9289fa291df0efd4e4cc74764c5c0b928a663e6d007996c1e563"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/iron_pickaxe.json"
+hash = "8f7cf311149b4fb729fd1bd892b9546ec495199f7551e76328276771662f159f"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/iron_shovel.json"
+hash = "86c65e8ad886ac608e978214e1b2e1580aed411fb5a7a05494e992635dfc6156"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/iron_sword.json"
+hash = "34321c6c13c0b3a63ed6c6715773ef3aaf2addd1b31d12a99c01391b3e5ba9fe"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/netherite_upgrade_smithing_template.json"
+hash = "d9ba644a8b1eb68b6b849380b78de464536cc4d0bc51ffb77ba7f99b77712ee2"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/shield.json"
+hash = "b90daecc6c0afe98ca62858d7a21a703560d163bd6a154ffb1af63e8e0b07a81"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/smithing_table.json"
+hash = "f6b2fcc7381136aad204c2f389b64e5c7a5a2db9e673e3640d618459b3e94a76"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/stone_axe.json"
+hash = "aac9139e943a1ef8de313fcdbedebcb0ac70a6099bd58f64ccf544191dda61be"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/stone_hoe.json"
+hash = "083d1f49f62fc07cff2c6810922d8ff76aaa9325f05154f0379328d9979d72a7"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/stone_pickaxe.json"
+hash = "242159efd0c76b0e2044f7d463c4ebd2112f16d08a5461d2911c5f2e15b8e07b"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/stone_shovel.json"
+hash = "e7885a3d919aa315e8ec691d37830412ea3fdee9f25d22697816b624f859ce21"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/recipes/stone_sword.json"
+hash = "7bd6d20b96176b6048d0ca62486417d67ad4ae8a9dfc6d8f8b051cf869aa836f"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/tags/blocks/beacon_base_blocks.json"
+hash = "2047b390e8c28bb339b692853b170ecc5f0a9c0c89949274c5c8f5f293be9953"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/tags/blocks/mineable/pickaxe.json"
+hash = "4551fd74f1c8a897b3167d1cfd19f0a4fb148b0068214b71366a804b8928fe23"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/tags/items/beacon_payment_items.json"
+hash = "1399054a6c23a73dfe8aa14a5cd1e2582f0f9d039bdc155669fd2072819e8638"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/minecraft/tags/items/trimmable_armor.json"
+hash = "3dec0ace216d15d735c547e9702279f3c4d917abba311c5fc1924a9bea96055a"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/advancements/amethyst_recipes.json"
+hash = "6e0a5f6938954e8f82597d46da090e859824bddd84180ad0c63523227026bb7c"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/advancements/copper_craft_unlock.json"
+hash = "7eb8ef0fec82ec1cc4d4a1b4aff0c2e189ac8a1363284d56fa295bc5a5c570e3"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/advancements/copper_gear_recipes.json"
+hash = "adbb9fe3c2e16a8eefbc7bd071109be7255cc5eac2b7d1d042a090c5f7124dd4"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/advancements/diamond_nugget_recipes.json"
+hash = "9a9890a8151b92834bb5b5fd378772f29ea1b98deb7dfd68543462b7599c9915"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/advancements/exposed_copper_block.json"
+hash = "665139c2d8a8978cb902a9dca97a707af62aabc9b0869e87e2d3e46b457726a2"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/advancements/gold_craft_unlock.json"
+hash = "fb616432f1f7a8d578aa5fe7b8ae258dbfbf762327911c424413ce253bacfb6b"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/advancements/iron_craft_unlock.json"
+hash = "d26f19f06954a4b057c2f8043157ea0a683ae34c7000be4b196d18a39c2a5557"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/advancements/iron_template.json"
+hash = "c60fd164014f2cc56dd6e431687a01e74fd00b2229969c6340141800766d68df"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/advancements/iron_template_duplicate.json"
+hash = "173bae2be5f44d5ea5a35e2e8a31e8ef3422738f5f8f8817821c8bc66157387c"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/advancements/oxidized_copper_block.json"
+hash = "e3041313aaf56554945e8274fcb182e9d484feff52838226893c0dd0604a5798"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/advancements/rose_craft_unlock.json"
+hash = "c761b79685413e92b9b97eff413fa832e20e16291dbee12a51dc830e90a4473a"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/advancements/rose_template.json"
+hash = "666b38a2ed7dcf0f029c8cc2214fa8f7ef5931ff5c3b4583fa8f0aac77cf0c60"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/advancements/rose_template_duplicate.json"
+hash = "cc8f0871d3b6a44b4902d5ce89db932601f3daf1f34614f0075cfd0946585cfc"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/advancements/waxed_copper_recipes.json"
+hash = "b0ed958640c9e9adeba245ec5a7222aa07ff9bf34bd9313a0ec102a8e63f0280"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/advancements/weathered_copper_block.json"
+hash = "2a0de9b2b286b26b5e5d3c1ef013a79426b278fb9699d6739e001f9f4124b1d8"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/loot_tables/blocks/nether_rose_ore.json"
+hash = "004c2f88f4fab8451c0478d80550284ae4c7c0055a4051b20edd0315d07923b3"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/amethyst_axe.json"
+hash = "a00fb3df8575204152ff819086e360f7a7c7f04b6afd774423a952704374044c"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/amethyst_hoe.json"
+hash = "79e48ff0a969f52bc54a35eeec9f7f13996babac29dc930d0c7f58db0e9415d3"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/amethyst_pickaxe.json"
+hash = "e40176a45dc379ed5eafa481c316f2ded5bef9c82270bedb313001a4995a5243"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/amethyst_shovel.json"
+hash = "86fc2df5a16f6828d51c74e3ffc4221473953619fcd4cd3fac80064ecdb6dab3"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/amethyst_sword.json"
+hash = "0d5d3f4992f2807b7005971cead8921fe7e16b62b05b767e18f6dc4423d4f6f7"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/blackstone_axe.json"
+hash = "c19b3d3e0ef5c2ec3470e0b45679015390a61036cf1588f2c8cf48ae7b4472d8"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/blackstone_hoe.json"
+hash = "0922137d372a36997344a2db09a6c82aaa06424ba1f98e1fdd1ffbcb85fffaf3"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/blackstone_pickaxe.json"
+hash = "bcd3ea661052fa61db39a7317fa484df2f378511bdb3b10eaacc248b06fe7390"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/blackstone_shovel.json"
+hash = "ff1dc3b739552195eeb2ba9698b9516fcfd3fb7b5c8a9d18f42bad0658c8ba31"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/blackstone_sword.json"
+hash = "1b4c50e91bce04d969cc83c817f57dcb18e713105c118c5af44acbfdcb6ea379"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/blasting_recipe_copper_block.json"
+hash = "c248226314a0246d52c6d6c14b335d1f76e6fd67ce181b85f44fd5b4df3f6e56"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/blasting_recipe_gold_block.json"
+hash = "e3046d037bad0e9fa822eefe2fe94f09aacf7decfbf8b1eb2af3f02fb27916c1"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/blasting_recipe_iron_block.json"
+hash = "949ddd5b6d9ba151fcafa20efb582f738a5fb06f87d3b335ab4e492a5a45ff6c"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/blasting_recipe_rose_block.json"
+hash = "d30fbe0959cb90ceca63ec1516dad794c1f360f7fe15ebdb7768872b046edfb9"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/copper_axe.json"
+hash = "258a43844aa24d7ee9f5ee5292a601501d895919ddf7464bce62da71e217e3bd"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/copper_boots.json"
+hash = "1b14fb9c593121e945e1c67bd1c28641365b929066009b62a95e382a22db0eab"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/copper_chestplate.json"
+hash = "2df2a4fbeaaf806deb91eb930793082c9b320ad0eff3d99146dfc0b6918d798d"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/copper_helmet.json"
+hash = "783fe36e8b0572fb95b6b42a33132c734b8f277ae6f4722f11d9d1c51ef4e452"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/copper_hoe.json"
+hash = "3dc93ee527768799c13320f04b77af976b65668a88d08ddad59ad76326a55b7c"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/copper_ingot_to_nugget.json"
+hash = "56feeb69c61c93838587b7cc05acfee828597ef7065f74a7eecb57c68ed45b0b"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/copper_leggings.json"
+hash = "be789972a0ae3f01d14e31dd768b10ec3216ac5a50f29a986bdbc7f6835b4daf"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/copper_nugget_blasting.json"
+hash = "12d78515b568c8c09cbb141fe97a6cfd3631c685a985075d905862cfefb3275d"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/copper_nugget_from_blasting.json"
+hash = "e97bdf78f4209491e85c2f7566921edc0799b4dd437ebeb6472110f93e0fcec9"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/copper_nugget_from_smelting.json"
+hash = "68e08959174cd56d201278ecf6347a1bb6d0d43d18f2dcdb2d14b6c7c01b7bda"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/copper_nugget_smelting.json"
+hash = "72d292951349e8791b95e0204187f1d05a0159d78de443ab28e318fd6b5b8b24"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/copper_nugget_to_ingot.json"
+hash = "1028157099d5243f1af8207d7ec8417c963ec5bb3af9bd6775a3ef4fe8c25566"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/copper_pickaxe.json"
+hash = "0c8964de78ed0196dfdbb1ee971c0dcd0b59414554de760602a8e877a8987ef2"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/copper_shovel.json"
+hash = "86607b183ddc6aa7075b8878a4f2228eaf69def2b3a308355035a181b48f301e"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/copper_sword.json"
+hash = "ab589f6d43484fd9c7b44a1aa139dc65c0e719196661462eb0aeb176813955af"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/craft_iron_upgrade_smithing_template.json"
+hash = "73a2974b2790bede083da3f81f56a444a5238f080777451640c40e28d9cd8177"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/craft_netherite_upgrade_smithing_template.json"
+hash = "27c913758a32dd1fab9a4e18fc257cabc47f14055f5792f8678da932fec9c067"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/craft_rose_upgrade_smithing_template.json"
+hash = "737b238380e077f779bb9c1e1336cd6b03abe4219c111c018c2cffaaadd749c6"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/deepslate_axe.json"
+hash = "39f6a805ddd7cdb066fda9c8fa8e8d3a7a2684e31e01163c38fa29f4cd9261c6"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/deepslate_hoe.json"
+hash = "4e5977c6eb1623f990b3d677948a718bf638528e2093b7c906534e52a3d83713"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/deepslate_pickaxe.json"
+hash = "68ced4b0974d852f0e4b23501dc259113a7004981cde766f6394cbfb3f4b1529"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/deepslate_shovel.json"
+hash = "60df1d3def3a2cca722dd51ec40af1ed17dbf3cb555e9adb38d305a7f164e049"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/deepslate_sword.json"
+hash = "f592bb01a0e0c317c1162dc87b010fddf469b9bf76b75597dc939da6ddbcbedc"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/diamond_from_nuggets.json"
+hash = "21ac097ea46ebfb94952975f58d2d43f28362799dbf9d2b009f7a8e9bf7176a4"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/diamond_nugget_from_blasting.json"
+hash = "231f27dea5a75b3646d77b0b12a32e01378f57f918a26e38637623b5b14cacca"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/diamond_nugget_from_smelting.json"
+hash = "5d522ccffc1228d2a374badb998b7c216501cbbc973ddb13c455e9b9cc8c28eb"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/diamond_to_nugget.json"
+hash = "da51a4435f866844a25a13c65b52b5579ef685b99f542afcc422dbd2cd83854e"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/exposed_copper_block_to_ingot.json"
+hash = "18ba8b639296c7c3481cc7ba6abf71ffa0e161504e828ba1d42c347b38ea5c1e"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/exposed_copper_ingots_to_block.json"
+hash = "deca0aead5a175feb8f7205f7f2505309a6f093103e389094e087ef5fe45fa0f"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/gold_nugget_blasting.json"
+hash = "958c4488ef79c3e81ad3f3e80f8fd5d2c18c757623042fa41c54775e4ff3e503"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/gold_nugget_smelting.json"
+hash = "3ee70744695fc4f9af826d8658d787657f71dd950fdfaee5bdefdfe51b6fb3d6"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/iron_alloy.json"
+hash = "16e7469bc912656ca2fedd6798d9f4e7c07fec99b943d469bf79eb1ac1a57056"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/iron_nugget_blasting.json"
+hash = "321aa3b6949fc386ec0adb42800bc9e7c12efd42122f1f25fbfb6192530a8299"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/iron_nugget_smelting.json"
+hash = "c7c9f6f2e923ef522a2f612a850222edcae443df95a4bab800a0d2c08cdd298a"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/iron_upgrade_smithing_template.json"
+hash = "e0eec4776e8178d3f8e1fb43461f05a5fe0550bb54fdc56525f75d90db1bae28"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/leather_from_rotten_leather.json"
+hash = "c633ace35a45911a6074cf54e48778c702919d33f0b1da1fa48efdd26e41eb24"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/leather_from_rotten_leather_campfire.json"
+hash = "42e4e62a3086f3a50027d47f6137cd54ca581d96fa631dd8c06ac17ec8133866"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/oxidized_copper_block_to_ingot.json"
+hash = "501d830798354bd8b5d35bcdb281ecd489c7177c2d2c4682167f80f280e09b17"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/oxidized_copper_ingots_to_block.json"
+hash = "f1896b148dc0f82bb037a9cfc6bdc7ab84e99a0b0d015ae837b0e439dc46e182"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/raw_copper_from_nuggets.json"
+hash = "afeee43348b2c02d696bcd7630cf5d917c45d69ed93d86f9249bd86dde725704"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/raw_copper_to_nugget.json"
+hash = "3977a79d65df2d39048089c9a914f67414f4ec8f25ac9ed3b222063c70da73b4"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/raw_gold_from_nuggets.json"
+hash = "3ced15e2e3a69afc8260419d5f7ca2ab101767de1a9b145bf11e4cbee6eb875a"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/raw_gold_to_nugget.json"
+hash = "c4558071360cb98465654021b05ae1879a3c48d704cd16bdf9166bcc611ffff3"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/raw_iron_from_nuggets.json"
+hash = "762831e16fa86ff6799710f3072559a467f2b5336f510458bdea689f5322f5f0"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/raw_iron_to_nugget.json"
+hash = "25af31c1ef28829cc8c76e6145c4904965dfe1f98abc3afb079c8cd021132c44"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/raw_rose_block_to_raw_rose.json"
+hash = "5029fae1d412f4b38ea9dc7bfb15a44d06615e45354c2617edee6904e2e47eb1"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/raw_rose_from_nuggets.json"
+hash = "b73452612979fec91dbd7df79ec0084430ae5ade21813a6b348a881796412e8e"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/raw_rose_ore_to_block.json"
+hash = "9db7e74221836507a2a7748829cf20fffe64771835d1c890a2c8901e48bf350a"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/raw_rose_to_nugget.json"
+hash = "c6c522e9f185b659e4078ac3304b2a07b75ce59141f1fc5aa9c8a52142bd7380"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_alloy.json"
+hash = "e4c6fa4cfb6938176a9dd9619b56cbfd213688d2ab59f22f35e313d250ddb3a2"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_axe_smithing.json"
+hash = "fd27b241eff1155e7d412dd1c5d8d2424f479917f13a38f39db61728221e8990"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_block_to_ingot.json"
+hash = "e53dca1d9287ef183cf80d667dbf685d133388caf981c01e079134d2d5ba9ccb"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_boots_smithing.json"
+hash = "d662b507e6c2f1c2289f069c51089087dd68cfccd5c51ea859988451bc966b49"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_chestplate_smithing.json"
+hash = "651fb0d679be2e39bb18a541f536e6673af35a54d41854ad48775478c4a260d4"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_from_nuggets.json"
+hash = "0338f3eccbf53ad5521b6a7406c1bf265b53544795a2f31677ea890f78fbf243"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_helmet_smithing.json"
+hash = "fd313bec769fb679f4af839d33303a32a6f296ea631ec868d99f1132daf49aca"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_hoe_smithing.json"
+hash = "287ef5f343dfa66d61558c3e2a5203e3f216bdde4072d071bb424e6bfc6ed42c"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_ingot_from_blasting.json"
+hash = "96b71ae139fd8471c6dfa23eb81adf5d279beccc85ffb782e60fe35e21010fa7"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_ingot_from_blasting_raw_rose_ore.json"
+hash = "4ba9cb11960207b9e320ebce5df1a8b8809cbf0e050d0e11b0af5010c56300e9"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_ingot_from_smelting.json"
+hash = "1e04063b160e7f51517ef4a655606941be3c15d4a06333a1707f83a70f737ffb"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_ingot_from_smelting_raw_rose_ore.json"
+hash = "8b49be31d261b7c5781e151743620ee30d616238ace84265e9735a1ea6639811"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_ingot_to_block.json"
+hash = "c276cc04171d7d8cfa23ccdca01f43749275a13e9198c425b1663c43ba4e0fbf"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_leggings_smithing.json"
+hash = "87d3302d7840d1e330a5194804902821e6d2aeacf1961736f165a5bb58b8c036"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_nugget_blasting.json"
+hash = "3c991d50a3389e6f4b233b929cff27c4dd29ea36e76ca1c01fe82299fbafcbef"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_nugget_from_blasting.json"
+hash = "8a6723e6f811a0d2963ec9c7a8517ad15ebc5cb1df3a176ca70b31bd2c677b1d"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_nugget_from_smelting.json"
+hash = "0ecc30b79dfb4effa72ad602ec1f35306a09757fa6cae8d0152664d00df418e7"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_nugget_smelting.json"
+hash = "419286db36c8d77b9cde026a948f4f0f429f05b0c32bbea9906dcef642b631b9"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_pickaxe_smithing.json"
+hash = "900c5f866211c5981518f2dfa86ff61590584d8760f9a6930855bf13ce304e14"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_shovel_smithing.json"
+hash = "5cc4e681f6c04f81e7c75996e026e320ed0336a99a9294b20405157188b5823c"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_sword_smithing.json"
+hash = "b8b8387051385e5b146988d57b998aca757a91228ddabbcfad29fe447622ca0f"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_to_nugget.json"
+hash = "33589f2da5be66630ecf648d6688acf857c355a44cf0a8dc73da0ac9b37e2d40"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rose_upgrade_smithing_template.json"
+hash = "98899138f7ffe4c5913564d97f494e1ef4961bdf60a97f7a5c2102b651e50e3b"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/rotten_flesh_to_rotten_leather.json"
+hash = "68e1e53fae8fe610b1e89ac6e74eea6a51c11a5b28cc26907e5f9797b61b4d1d"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/smelting_recipe_copper_block.json"
+hash = "4461609778ca0cc3111fe7b0d8a4ba11ad120cd277eaf518384e992cb2f41065"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/smelting_recipe_gold_block.json"
+hash = "151d50671ab98b03af330278a79c202f19243e282afe8046e5845c6330cb875e"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/smelting_recipe_iron_block.json"
+hash = "282a0d9ac27f8628a53c785a9882126ce8e7400f647b18997dba5d4780deebc3"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/smelting_recipe_rose_block.json"
+hash = "dfe41c0f9e164d2be352816e1500600c6285ddaa026eeafd21041f2f8a66886f"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_copper_axe.json"
+hash = "af05b26b5d54ef098fb71b6f4fab262ffd3113f0d442e26d2f2b7e9759829330"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_copper_boots.json"
+hash = "b644c4a37c9666c25bcd4e96060c7036b2ea15fe0f2c4c4e76cc3d6a8a4c0520"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_copper_chestplate.json"
+hash = "461059f81f97cc3bc6493a8bdba6f4ffad50d7ce21181d262b86a2975ccb4d70"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_copper_helmet.json"
+hash = "8be94f073fd1165a741e6bf155b87eb09404cc5d86e04ede1f0afd8b3cfb81bb"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_copper_hoe.json"
+hash = "9f97e931e1ac351141a08c7f76af2e5e41aa70031b04a4cb28dc9af7d24f58bf"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_copper_leggings.json"
+hash = "5eca55c8fb9b9923e7b76049669e25d2c44b3c030721bfa28033c2b05a62ff41"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_copper_pickaxe.json"
+hash = "7d97a624655ed78c86061107d5ac20788ce280a01f9aef17abc9acaa78d6c38a"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_copper_shovel.json"
+hash = "0d8585d94d4fbcb61be04f7d02f85fd11be8ea865a319d7641ca68a0280b2ee8"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_copper_sword.json"
+hash = "f2883f5868ff50b3a00f8ec0916359d55ff4142b3542978bf438912c7b4b5bb3"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_exposed_copper_axe.json"
+hash = "7da9f192a52fcb44287eb84357cc528a874ba010af089ade6789d34234b12e2a"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_exposed_copper_boots.json"
+hash = "79bacdc0682a49f524f34b7c0b8a6517e3259b7a3a6f84832670a36dff76ba23"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_exposed_copper_chestplate.json"
+hash = "2360e84bb479e9a36799844fb25e53c229e93a72155d5a824deb7ada95f32f25"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_exposed_copper_helmet.json"
+hash = "4fc7aeca486c87e0a1f0db702154deb82187a939521c3936fd1e3acd2a65080b"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_exposed_copper_hoe.json"
+hash = "cddae3e29f1ca5ca8987d7f811b37166b73bc3d7d124e31ccf2e9f5f2345abdf"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_exposed_copper_leggings.json"
+hash = "e579c1fce891fd511d6fd0a45f5f2d4416b6593aef31e76e215912564369986b"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_exposed_copper_pickaxe.json"
+hash = "fe0a6b0ce859815a0c8c71183121cb971a6ae1c5829c948ee0d9b0d27544869c"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_exposed_copper_shovel.json"
+hash = "59b7345bc3c82a99e41e4eddeb8ba2cda7eafcaf83225e2d2c4a2332be84895a"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_exposed_copper_sword.json"
+hash = "f5a5f34e27c511f5de09e59b136b815003eb62e78168e08cba9a10bac963e14d"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_oxidized_copper_axe.json"
+hash = "f128cd1c5addf42cd735e676d1fb19911d5bb1b68872eb291aee2d1e4009ec05"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_oxidized_copper_boots.json"
+hash = "659b27dd83d3c9b1f1e9d55743de20a62eb5eb5f0bd3be1671a8caebcd830b80"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_oxidized_copper_chestplate.json"
+hash = "a6eaca3dad27475072bc83d92f01a97d3feba3c279f45b05b2397c255b200d15"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_oxidized_copper_helmet.json"
+hash = "76d3b112081aa33558c0439f4b6ad50fabae438a6bc55148e4aef93cd6fa8248"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_oxidized_copper_hoe.json"
+hash = "23aedb1a6c019d9698e49c8f7223331277bb07da737bcc89081cda36de96e893"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_oxidized_copper_leggings.json"
+hash = "104dcbf4827891ffdcc18b75cad88c6d7a3449dab24475b564a753583dfb17fd"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_oxidized_copper_pickaxe.json"
+hash = "066c4c6036c20889b064f0b2da05712b00d2b91a214bce35939a394b9e6ed168"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_oxidized_copper_shovel.json"
+hash = "959a966dda887bca7d90715e2a1500bd43e47c217049b175edd339503c18b209"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_oxidized_copper_sword.json"
+hash = "e16409c97607d87093a3eb0936d5cff30f93704bef87f3749f7e5ac9846181bf"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_weathered_copper_axe.json"
+hash = "6ecb0ec043705fef723c1f3199fdab0b5e382595dfa140f275be4e9c6fdd6223"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_weathered_copper_boots.json"
+hash = "8c9087eedcc2cd076c5e458cb176cfca77efe18066692eb6702a734cd34a0ce9"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_weathered_copper_chestplate.json"
+hash = "f2f1e9d5ce59f57c8b4befaed46ddeb311d434138f3ecdc1d301f8605c86b89f"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_weathered_copper_helmet.json"
+hash = "bc8566494bf764417bdf49a364abace0e6b91780a2193b4669fc5129cd94bbb7"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_weathered_copper_hoe.json"
+hash = "6b0deecc5aeb9233398a2877d37cd43bb2c85ee3a854223df5e32a95efdf386c"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_weathered_copper_leggings.json"
+hash = "5ac0f4dc6ceb81470e4b7e6ef6c968a153c63325649acea2fe165c41170f6acc"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_weathered_copper_pickaxe.json"
+hash = "983efd104979ce429cddc8aaf142b190b0b32e34f82899c623993697e6873cd6"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_weathered_copper_shovel.json"
+hash = "e01639f5190c48876e51d5d74f940ee16355f95771ebd4fccff5f1c75660b54b"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/waxed_weathered_copper_sword.json"
+hash = "024980f92b1b7565cc8e1201409c09518d5250f11b3aecb9d0da32c9782c2795"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/weathered_copper_block_to_ingot.json"
+hash = "ebe21a6b7526d0f0f6ba49c71679469230ae0373253cb85f6895988079627e85"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/recipes/weathered_copper_ingots_to_block.json"
+hash = "cb1c6970dd10e32a317a9d03638c2b1c92f242da4835f948d0f6451ddb60d9dd"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/worldgen/configured_feature/nether_rose_ore.json"
+hash = "3090817bf79437f4a2b6c3ca0bde71fdd635d2623af87b138baacfd5857aa5a0"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/data/progression_reborn/worldgen/placed_feature/nether_rose_ore.json"
+hash = "1324cc5fdc1f9fe42194b4ad65385b1aa2af44dcd6b67ff02837aa0611a8cd0e"
+
+[[files]]
+file = "global_packs/required_data/progression_reborn/pack.mcmeta"
+hash = "66458be995ca98e6e8a8f39ff297973ce8912ac70e179b73ab1950d1a1edfd63"
+
+[[files]]
 file = "global_packs/required_data/spooky/data/minecraft/loot_tables/entities/warden.json"
 hash = "ae687ba0cf1e5e4ac41d5bb6279e502d3dd215b3d22bf31e557f926d6d9778f5"
 

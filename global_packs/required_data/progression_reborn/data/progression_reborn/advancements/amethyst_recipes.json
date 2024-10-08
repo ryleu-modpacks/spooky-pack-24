@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "has_amethyst_cluster": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:amethyst_cluster"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "progression_reborn:amethyst_sword",
+      "progression_reborn:amethyst_axe",
+      "progression_reborn:amethyst_pickaxe",
+      "progression_reborn:amethyst_shovel",
+      "progression_reborn:amethyst_hoe"
+    ]
+  }
+}

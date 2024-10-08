@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["AA","BA","B "],"key":{"A":{"item":"minecraft:blackstone"},"B":{"item":"minecraft:stick"}},"result":{"item":"progression_reborn:blackstone_axe","count":1},"group": "blackstone_axe"}

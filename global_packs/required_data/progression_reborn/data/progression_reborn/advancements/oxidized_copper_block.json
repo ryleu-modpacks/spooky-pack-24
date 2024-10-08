@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "has_oxidized_copper_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:oxidized_copper"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "progression_reborn:oxidized_copper_block_to_ingot",
+      "progression_reborn:oxidized_copper_ingots_to_block"
+    ]
+  }
+}

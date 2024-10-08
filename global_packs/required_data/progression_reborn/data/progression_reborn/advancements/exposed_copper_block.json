@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "has_exposed_copper_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:exposed_copper"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "progression_reborn:exposed_copper_block_to_ingot",
+      "progression_reborn:exposed_copper_ingots_to_block"
+    ]
+  }
+}

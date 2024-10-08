@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["AAA"," B "," B "],"key":{"A":{"item":"minecraft:amethyst_cluster"},"B":{"item":"minecraft:stick"}},"result":{"item":"progression_reborn:amethyst_pickaxe","count":1},"group": "amethyst_pickaxe"}

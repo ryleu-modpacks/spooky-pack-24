@@ -1,0 +1,62 @@
+{
+  "criteria": {
+    "has_copper_ingot_and_honeycomb": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:copper_ingot"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:honeycomb"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "progression_reborn:waxed_copper_sword",
+      "progression_reborn:waxed_copper_axe",
+      "progression_reborn:waxed_copper_pickaxe",
+      "progression_reborn:waxed_copper_shovel",
+      "progression_reborn:waxed_copper_hoe",
+      "progression_reborn:waxed_copper_helmet",
+      "progression_reborn:waxed_copper_chestplate",
+      "progression_reborn:waxed_copper_leggings",
+      "progression_reborn:waxed_copper_boots",
+      "progression_reborn:waxed_exposed_copper_sword",
+      "progression_reborn:waxed_exposed_copper_axe",
+      "progression_reborn:waxed_exposed_copper_pickaxe",
+      "progression_reborn:waxed_exposed_copper_shovel",
+      "progression_reborn:waxed_exposed_copper_hoe",
+      "progression_reborn:waxed_exposed_copper_helmet",
+      "progression_reborn:waxed_exposed_copper_chestplate",
+      "progression_reborn:waxed_exposed_copper_leggings",
+      "progression_reborn:waxed_exposed_copper_boots",
+      "progression_reborn:waxed_weathered_copper_sword",
+      "progression_reborn:waxed_weathered_copper_axe",
+      "progression_reborn:waxed_weathered_copper_pickaxe",
+      "progression_reborn:waxed_weathered_copper_shovel",
+      "progression_reborn:waxed_weathered_copper_hoe",
+      "progression_reborn:waxed_weathered_copper_helmet",
+      "progression_reborn:waxed_weathered_copper_chestplate",
+      "progression_reborn:waxed_weathered_copper_leggings",
+      "progression_reborn:waxed_weathered_copper_boots",
+      "progression_reborn:waxed_oxidized_copper_sword",
+      "progression_reborn:waxed_oxidized_copper_axe",
+      "progression_reborn:waxed_oxidized_copper_pickaxe",
+      "progression_reborn:waxed_oxidized_copper_shovel",
+      "progression_reborn:waxed_oxidized_copper_hoe",
+      "progression_reborn:waxed_oxidized_copper_helmet",
+      "progression_reborn:waxed_oxidized_copper_chestplate",
+      "progression_reborn:waxed_oxidized_copper_leggings",
+      "progression_reborn:waxed_oxidized_copper_boots"
+    ]
+  }
+}
