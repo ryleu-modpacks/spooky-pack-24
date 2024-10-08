@@ -432,6 +432,11 @@ hash = "f026d9e65006fe6b5997cf6d236797c9299b4f87276ea3b5bf71507c9c47921f"
 metafile = true
 
 [[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "826283eb4fde82ebc8bf7f7d4c5c73be262a8606c27b63c446d617f40830c22f"
+metafile = true
+
+[[files]]
 file = "mods/loud-horns.pw.toml"
 hash = "ee6e31ed409efbe9fac8f8fd90979c7743487bd4b768b8c59f71779b3eae9cfd"
 metafile = true
@@ -544,6 +549,11 @@ metafile = true
 [[files]]
 file = "mods/true-darkness-forge-updated-fork.pw.toml"
 hash = "56d36a8a6875c2abbe8eaabbe1fee52c1c1ae2a4f763975c06a8e1e40a50c000"
+metafile = true
+
+[[files]]
+file = "mods/vibrative-voice.pw.toml"
+hash = "7691d12781be0eeb46246d3ff30d29fc7edb20e5f71ca5f51f801d50c4d964e8"
 metafile = true
 
 [[files]]

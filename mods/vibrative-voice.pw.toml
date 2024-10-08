@@ -1,0 +1,13 @@
+name = "Vibrative Voice"
+filename = "VibrativeVoice-forge-1.20.1-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wa9vzNNU/versions/3PXsVkPI/VibrativeVoice-forge-1.20.1-1.1.0.jar"
+hash-format = "sha1"
+hash = "11b8d8a287659dfff8b318f03015ef380db158b8"
+
+[update]
+[update.modrinth]
+mod-id = "Wa9vzNNU"
+version = "3PXsVkPI"
