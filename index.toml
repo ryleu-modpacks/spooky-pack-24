@@ -141,6 +141,10 @@ file = "config/xaerominimap.txt"
 hash = "4fec26986599b4f95d4ab90562d27d8cee3673126bbfbaff485f4dcb82c9b956"
 
 [[files]]
+file = "defaultoptions/options.txt"
+hash = "ae98cc8cd2e35ef1fafd698cc23f5b83ac6488df6125439b3a11db0b3776f32c"
+
+[[files]]
 file = "global_packs/required_data/progression_reborn/data/chrysalis/tags/items/immune_to_fire.json"
 hash = "d9ed0cb97b44bccccd08152045c5eb0189798318e8d7e2d63b6989f58d3b3ff9"
 
@@ -1118,6 +1122,11 @@ hash = "f362bee76fc8945fdcfbe97da74cc49af7c53a53a6dc9da8eda94e2e3ab94c2e"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "be8e217053e3e0bc0179a62beaa1f8e29e22b1cdc2cb0d56bd9836ce5e6dea3b"
+metafile = true
+
+[[files]]
 file = "mods/beans-backpacks.pw.toml"
 hash = "a45d935f5252f5a75fe0866c956376781023e852df3660e3b4b6cd29cb1d1a45"
 metafile = true
@@ -1175,6 +1184,11 @@ metafile = true
 [[files]]
 file = "mods/darcenos-minecarts.pw.toml"
 hash = "9079368e884fb97f2902d3704aa2965fa2040864557e9e222428626acb005f0f"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "91c2538d726a12623122d1a2945a6ad3d2d5b290d43c72149f21af560e8465eb"
 metafile = true
 
 [[files]]
