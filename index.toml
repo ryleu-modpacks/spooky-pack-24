@@ -1074,11 +1074,11 @@ hash = "47c3acead31c01cd71533e4ab3c0553b02c5a785df886abec650f7b3de285660"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/load.mcfunction"
-hash = "52d407ca720608a1d886b45ebd85f49e69ba2da97fb0eac6fe041752dffac41b"
+hash = "d5d3b6ead452a311ff14d0ffb68fe4e1aa17455fb1e9b1c89570a45e48ca8c2d"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/sanity/tick.mcfunction"
-hash = "60b71c63d6b392cade6387289676a2adcdc86a8f90ce8b344184f1f7e97fd1b1"
+hash = "f15b6913d6ac6a5fae80dafd2b62203f2dfd5bf0654b3de9e802f38ec0e84f85"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/tick.mcfunction"
@@ -1203,7 +1203,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "5761e3abd72073c9734c8de3e8a1d1e31c264dadf1688b09150ca3483bd8afcc"
+hash = "f7ec8dc282e77a4ede97eab58fe84f6715f6099f0b0009b20bcb84c8991449cd"
 metafile = true
 
 [[files]]
