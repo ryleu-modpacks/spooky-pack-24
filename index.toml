@@ -1247,11 +1247,6 @@ hash = "315418827149c57947f77defb618c60eb776209bb5ae966d1a4b5af1bca96539"
 metafile = true
 
 [[files]]
-file = "mods/geotagged-screenshots.pw.toml"
-hash = "8915bce95d281c47411f26dacb6a86ba962705dbe32983c7a893b9c362ada4c6"
-metafile = true
-
-[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "4af3085e1acb71c9eed4a35981f14b542fb986bf8a4afa2fa6f02e9e86117227"
 metafile = true
