@@ -114,7 +114,7 @@ hash = "fb9c0763f616868b09c9c178c2c7644e2b7c4578e326d16bd19a705cfee0fa74"
 
 [[files]]
 file = "config/sanitydim/default.toml"
-hash = "26207a1594045df9f4dc3da1e8b4af770856b311a3e7dea9b0dc6dca3422b684"
+hash = "76c80f2e58455bb6010c0e8995c1ebac7ea16503ae1effc3ebaca1ee55a688a4"
 
 [[files]]
 file = "config/sculkhorde_config.toml"

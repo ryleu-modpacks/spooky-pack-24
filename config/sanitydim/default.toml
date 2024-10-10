@@ -77,7 +77,7 @@
 		sleeping_cd = 1200.0
 		#Players will gain sanity based on the damage they take from any sources with the ratio of 1 to this number
 		#Range: -100.0 ~ 100.0
-		hurt_ratio = -2.0
+		hurt_ratio = -1.0
 		#Spawning a baby chicken by throwing an egg restores this amount of sanity
 		#Range: -100.0 ~ 100.0
 		baby_chicken_spawn = 0.0
@@ -114,7 +114,7 @@
 		shearing_cd = 300.0
 		#Consuming food gives this amount of sanity for every half-drumstick the meal restores
 		#Range: -100.0 ~ 100.0
-		eating = 1.0
+		eating = 0.0
 		#Eating cooldown (see notes above), real time in seconds
 		#Range: 0.0 ~ 3.4028234663852886E38
 		eating_cd = 0.0
