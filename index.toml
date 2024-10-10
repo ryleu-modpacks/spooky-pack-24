@@ -1132,6 +1132,11 @@ hash = "a45d935f5252f5a75fe0866c956376781023e852df3660e3b4b6cd29cb1d1a45"
 metafile = true
 
 [[files]]
+file = "mods/bygone-nether.pw.toml"
+hash = "af3ece2be745c14463ba713fd453cfca07f829137059d74954cc392a6de36e3e"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "155f957dbf3a6326962f20c1f7b236e7cb4f228cf37e850caac799a0ee53f59c"
 metafile = true
@@ -1409,6 +1414,11 @@ metafile = true
 [[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
 hash = "90d14db1585b25ea5d2c797faa590ebfe3f0e8b3f42163cb9086f0ba5b834f6c"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "614ecebd5014cc2ea87dc9adee6edbc4cb349d095be02c930021a7ce917da24e"
 metafile = true
 
 [[files]]
