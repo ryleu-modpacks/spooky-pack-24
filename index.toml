@@ -1078,7 +1078,7 @@ hash = "d5d3b6ead452a311ff14d0ffb68fe4e1aa17455fb1e9b1c89570a45e48ca8c2d"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/sanity/tick.mcfunction"
-hash = "f15b6913d6ac6a5fae80dafd2b62203f2dfd5bf0654b3de9e802f38ec0e84f85"
+hash = "523b05d6a4d1c98ebd421988f45d85896a44cf66c80e211e990baaf4608276f8"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/tick.mcfunction"
