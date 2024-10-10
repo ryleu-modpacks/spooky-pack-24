@@ -1074,11 +1074,11 @@ hash = "47c3acead31c01cd71533e4ab3c0553b02c5a785df886abec650f7b3de285660"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/load.mcfunction"
-hash = "5e2cbad97cc20a30767ba5ff21d177c678609364061d7c1de2e2b1dc5d7a1f00"
+hash = "52d407ca720608a1d886b45ebd85f49e69ba2da97fb0eac6fe041752dffac41b"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/sanity/tick.mcfunction"
-hash = "f525174c52887e4fe9a8759961c48fe7280afcdba2abcaf29d305bd8c5776f62"
+hash = "fbf0e1632a9e69e8db1d09c12d54f3106c7ed59416078d58286115c53809a79f"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/tick.mcfunction"
