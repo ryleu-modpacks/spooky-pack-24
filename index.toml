@@ -1074,7 +1074,7 @@ hash = "47c3acead31c01cd71533e4ab3c0553b02c5a785df886abec650f7b3de285660"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/load.mcfunction"
-hash = "d5d3b6ead452a311ff14d0ffb68fe4e1aa17455fb1e9b1c89570a45e48ca8c2d"
+hash = "1ce9a40fd00957a971c98f514bc4090fd526c21cc6e027bbdc3524a3c194e9a3"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/sanity/tick.mcfunction"
@@ -1344,11 +1344,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
-metafile = true
-
-[[files]]
-file = "mods/no-sleep,-no-phantoms.pw.toml"
-hash = "a4cbff0b6567a8dada555386be6b55529d80d2289de685d28d36cec9575fd2fb"
 metafile = true
 
 [[files]]
