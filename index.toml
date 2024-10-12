@@ -1138,11 +1138,6 @@ hash = "155f957dbf3a6326962f20c1f7b236e7cb4f228cf37e850caac799a0ee53f59c"
 metafile = true
 
 [[files]]
-file = "mods/cave-dweller-evolved.pw.toml"
-hash = "b02016ee3d511033b61bbe128c83a9f7be343193747827907c3d58b1413d3075"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
 metafile = true
