@@ -1308,6 +1308,16 @@ hash = "ee6e31ed409efbe9fac8f8fd90979c7743487bd4b768b8c59f71779b3eae9cfd"
 metafile = true
 
 [[files]]
+file = "mods/manyideas-core.pw.toml"
+hash = "138932c84890c25da9e9a2ae1d8b450b627d6c13e2cd048e60fd4cfec7cd76ea"
+metafile = true
+
+[[files]]
+file = "mods/manyideas-halloween.pw.toml"
+hash = "ccd9cab3ac997100979d6014c18c0c29825dbda6d3c15caa2ca250b745f3a029"
+metafile = true
+
+[[files]]
 file = "mods/moderner-beta.pw.toml"
 hash = "884e031d0e6fe5002120d9c7abb77d5d7301d16a1b13b55317e5f50aaa66aba9"
 metafile = true
