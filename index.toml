@@ -101,10 +101,6 @@ file = "config/hungerstrike-common.toml"
 hash = "752485d0be00f490ac2cbc4e6750a9673c034587b80a28951fe7d23edeb5a8f3"
 
 [[files]]
-file = "config/man_config.toml"
-hash = "5b91484e2d531af429e2e596567f61d8978bbd9b39738747f32d0e52ded6efff"
-
-[[files]]
 file = "config/multimine.cfg"
 hash = "7b67646a4367924a5e874cc88a77e4da0d4a1ecae90c7bc414306792b52f5e82"
 
