@@ -1050,7 +1050,7 @@ hash = "2d92484772e9f1aca2f4bd9f478d19b48c19ef9e8189e4fdfe03f4512b60987a"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/on_healthy_death.mcfunction"
-hash = "84d5e90e4b2bf2968627b1469d1b58f37c6e7b2f2cf09936849cf8fa33a86dc3"
+hash = "58ca9dcf1bdfe0d6932273da01c404da70170bdfc4258ba493eaedb9dfe03011"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/on_pick_up_hearts.mcfunction"

@@ -1,4 +1,4 @@
-summon item ~ ~ ~ {NoGravity:1b,Item:{id:"sanitydim:garland",Count:1s}}
+summon item ~ ~ ~ {NoGravity:1b,Item:{id:"sanitydim:garland",Count:1s,tag:{Unbreakable:1b,HideFlags:4s}}}
 
 # store LastDeathLocation into a scoreboard
 execute store result score @s spooky.last_death_location.x run data get entity @s LastDeathLocation.pos[0]
