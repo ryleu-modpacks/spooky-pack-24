@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "sculkhorde:infested_cobblestone"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "sculkhorde:infested_gravel"
+    }
+  ]
+}

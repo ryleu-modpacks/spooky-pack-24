@@ -1,0 +1,22 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "sculkhorde:infested_gravel"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.25,
+      "item": "minecraft:flint"
+    },
+    {
+      "chance": 0.125,
+      "item": "minecraft:iron_nugget"
+    },
+	{
+	  "chance": 0.000001,
+	  "item": "sculkhorde:sculk_resin"
+	}
+  ]
+}
