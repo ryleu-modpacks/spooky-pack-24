@@ -997,6 +997,14 @@ file = "global_packs/required_data/progression_reborn/pack.mcmeta"
 hash = "66458be995ca98e6e8a8f39ff297973ce8912ac70e179b73ab1950d1a1edfd63"
 
 [[files]]
+file = "global_packs/required_data/spooky/data/create/recipes/milling/infested_cobblestone.json"
+hash = "9ba0c197c71320d819f0fcb92120b572bd49d5761170a5283637c53a7f63c463"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/create/recipes/splashing/infested_gravel.json"
+hash = "4f5dddd3b86727bcaa730727804b2a1f196f3173a73521476ccaee2cc356d580"
+
+[[files]]
 file = "global_packs/required_data/spooky/data/minecraft/loot_tables/entities/warden.json"
 hash = "ae687ba0cf1e5e4ac41d5bb6279e502d3dd215b3d22bf31e557f926d6d9778f5"
 
