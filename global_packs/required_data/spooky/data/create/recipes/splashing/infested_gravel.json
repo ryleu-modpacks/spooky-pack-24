@@ -14,9 +14,9 @@
       "chance": 0.125,
       "item": "minecraft:iron_nugget"
     },
-	{
-	  "chance": 0.000001,
-	  "item": "sculkhorde:sculk_resin"
-	}
+    {
+      "chance": 0.1,
+      "item": "minecraft:sculk_vein"
+    }
   ]
 }

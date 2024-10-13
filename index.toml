@@ -1002,7 +1002,7 @@ hash = "9ba0c197c71320d819f0fcb92120b572bd49d5761170a5283637c53a7f63c463"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/create/recipes/splashing/infested_gravel.json"
-hash = "4f5dddd3b86727bcaa730727804b2a1f196f3173a73521476ccaee2cc356d580"
+hash = "07cf0dae42a0f0baf27fc03271a0f25f3c334c56024429cdaff3fc5317a9a270"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/minecraft/loot_tables/entities/warden.json"
@@ -1131,11 +1131,6 @@ hash = "be8e217053e3e0bc0179a62beaa1f8e29e22b1cdc2cb0d56bd9836ce5e6dea3b"
 metafile = true
 
 [[files]]
-file = "mods/beans-backpacks.pw.toml"
-hash = "a45d935f5252f5a75fe0866c956376781023e852df3660e3b4b6cd29cb1d1a45"
-metafile = true
-
-[[files]]
 file = "mods/bygone-nether.pw.toml"
 hash = "af3ece2be745c14463ba713fd453cfca07f829137059d74954cc392a6de36e3e"
 metafile = true
@@ -1178,6 +1173,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "f82acbf25b55d19c221bb38c7bc4580a2bffb98881001f0d1668d0741e56b5d0"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "84a74f965c0d0ae77b2a67d988d0778a52ec783456a8cf9602c675123ac78fe0"
 metafile = true
 
 [[files]]
@@ -1413,6 +1413,16 @@ metafile = true
 [[files]]
 file = "mods/sodium-extras.pw.toml"
 hash = "f7bf05ab2ac48506126085e17ca7ace8969d1eb5e225f9fbf970c2ff9bf0cbe5"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "658a905d1180cc7d56a7418d1d5017d8c268afebdc0b26df5bf66182c5dac31a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "eb550a13f76eca51207a0530d57a94f7dec3aaa810ffb25a5422b42fd6e96af4"
 metafile = true
 
 [[files]]
