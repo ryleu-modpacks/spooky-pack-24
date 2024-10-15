@@ -1046,7 +1046,7 @@ hash = "9ba0c197c71320d819f0fcb92120b572bd49d5761170a5283637c53a7f63c463"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/create/recipes/pressing/tuff.json"
-hash = "5118c390d0559a43dc4984c78346750755506fbceb98cb96c9c6124695dbb39c"
+hash = "fb65f6284d5f643b4608512529c3db26a06cef8eb605ded8afa6ca0aa95961da"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/create/recipes/splashing/infested_gravel.json"
