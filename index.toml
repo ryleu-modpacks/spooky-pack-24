@@ -1135,6 +1135,11 @@ hash = "be8e217053e3e0bc0179a62beaa1f8e29e22b1cdc2cb0d56bd9836ce5e6dea3b"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "a825bce2890f42c1acfb1965f2309b6e3f12e73364f632e577ef2ca1e390db2c"
+metafile = true
+
+[[files]]
 file = "mods/bygone-nether.pw.toml"
 hash = "af3ece2be745c14463ba713fd453cfca07f829137059d74954cc392a6de36e3e"
 metafile = true
