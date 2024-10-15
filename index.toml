@@ -17,6 +17,46 @@ file = "config/armor-nerf.json5"
 hash = "2a6043f87b5aec589d52a8125578fd72285172da42561ed9645effdf8405424d"
 
 [[files]]
+file = "config/bluemap/bluemap/core.conf"
+hash = "098eee74f54b882ebe1ffb3203ed5172df8e278171a4ed328023ed2fd15e7459"
+
+[[files]]
+file = "config/bluemap/bluemap/maps/world.conf"
+hash = "5abda0daec6d5c9bb84a7a6178c352bfebbc2537dd6e033bc2d472b240eae173"
+
+[[files]]
+file = "config/bluemap/bluemap/maps/world_arphex_the_crawling.conf"
+hash = "47a7002fb745076f03eecea30508d96166056144aa00887489f5e70ea645122f"
+
+[[files]]
+file = "config/bluemap/bluemap/maps/world_the_end.conf"
+hash = "073ed08979efb33521d5fe8dc4b939d0b9dade220081d59fb5bb8a2680323788"
+
+[[files]]
+file = "config/bluemap/bluemap/maps/world_the_nether.conf"
+hash = "897705ff44b710ea423b9ff5dfd9b507215218bd40ef87e7f59032ae3e71a8d1"
+
+[[files]]
+file = "config/bluemap/bluemap/plugin.conf"
+hash = "f4f9fc6a3ec27abe824b1aef445183f4c988c212724fb850c17ab489353c7b51"
+
+[[files]]
+file = "config/bluemap/bluemap/storages/file.conf"
+hash = "ce1f7419cb657755fcb3266817251951701119b95c8e34fb8fa0a1f6be8c7b17"
+
+[[files]]
+file = "config/bluemap/bluemap/storages/sql.conf"
+hash = "dbf122b4932a67e8b602ebe24d3278616522c24d2e9481f6c31c9949e75ed9f6"
+
+[[files]]
+file = "config/bluemap/bluemap/webapp.conf"
+hash = "eb7fbbf671c247286fd9d3c52a43142da7e65dfb53c08163e0742b2979f3ca24"
+
+[[files]]
+file = "config/bluemap/bluemap/webserver.conf"
+hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
+
+[[files]]
 file = "config/connector.json"
 hash = "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22"
 
