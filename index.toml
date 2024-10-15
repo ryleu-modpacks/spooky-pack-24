@@ -1041,6 +1041,10 @@ file = "global_packs/required_data/progression_reborn/pack.mcmeta"
 hash = "66458be995ca98e6e8a8f39ff297973ce8912ac70e179b73ab1950d1a1edfd63"
 
 [[files]]
+file = "global_packs/required_data/spooky/data/create/recipes/compacting/diamond.json"
+hash = "211f5d74a71bf24dbe9c12ff9f15305b1e44a1cdbdedf38ec498405f77576103"
+
+[[files]]
 file = "global_packs/required_data/spooky/data/create/recipes/compacting/tuff.json"
 hash = "de59b89df6904428d68748c21269551dcbfe863940d302124379f6a4e180c42b"
 
