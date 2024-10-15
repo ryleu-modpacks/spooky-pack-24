@@ -1,0 +1,22 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+        {
+            "item": "minecraft:basalt"
+        },
+        {
+            "item": "minecraft:bonemeal",
+            "count": 2
+        },
+        {
+            "fluid": "minecraft:lava",
+            "amount": 100,
+            "nbt": {}
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:tuff"
+        }
+    ]
+}
