@@ -22,11 +22,11 @@ hash = "1fcfc01dc15bfac75de6b335b1425a31c533addfd0d510ea7b518f21ff42f908"
 
 [[files]]
 file = "config/bluemap/bluemap/maps/world.conf"
-hash = "5abda0daec6d5c9bb84a7a6178c352bfebbc2537dd6e033bc2d472b240eae173"
+hash = "67a6976171ce2db50def36c5ce64d3ac7e8fe10c03fb8eae37496ab2d750c165"
 
 [[files]]
 file = "config/bluemap/bluemap/maps/world_arphex_the_crawling.conf"
-hash = "47a7002fb745076f03eecea30508d96166056144aa00887489f5e70ea645122f"
+hash = "539af9f70f4ab91345d992c91c66ecfce8f9a0ef66834c0aa941292990f8b384"
 
 [[files]]
 file = "config/bluemap/bluemap/maps/world_the_end.conf"
