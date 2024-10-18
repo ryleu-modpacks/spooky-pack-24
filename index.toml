@@ -1310,6 +1310,11 @@ hash = "91c2538d726a12623122d1a2945a6ad3d2d5b290d43c72149f21af560e8465eb"
 metafile = true
 
 [[files]]
+file = "mods/distracting-trims.pw.toml"
+hash = "b274c66fbdd2e760922116eff5e3bfd561038284b5dde8a8b6124c464b9f6b65"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "a0fc94278ac9295ccfea4c068ad38c4ad3e25ff00d9f9ed9ce47fe08b21e3a44"
 metafile = true
@@ -1500,6 +1505,11 @@ hash = "09deeddd9aafe7378ef20894b86145cb86f93c1f114ec72f4456ec5f0310f598"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-forge.pw.toml"
+hash = "428f716063af83a502d9c62d3257f63223a03a40ea20781caa1cc90f7a8ecce7"
+metafile = true
+
+[[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "1c125868074560e1b65d2b6e2f5ffd18984bbe236e35720c46cc6c20ac6f9813"
 metafile = true
@@ -1555,6 +1565,11 @@ hash = "614ecebd5014cc2ea87dc9adee6edbc4cb349d095be02c930021a7ce917da24e"
 metafile = true
 
 [[files]]
+file = "mods/subsurface.pw.toml"
+hash = "b5897d3a8d4f258a5989b135b16a136bf5945cb201e13b2b7ca84c4d27647b1f"
+metafile = true
+
+[[files]]
 file = "mods/the-man-from-the-fog.pw.toml"
 hash = "967716e23b3b4461689b39b3d16b3b5451fada33eb4a46118c439336b8f26930"
 metafile = true
@@ -1562,6 +1577,11 @@ metafile = true
 [[files]]
 file = "mods/true-darkness-forge-updated-fork.pw.toml"
 hash = "56d36a8a6875c2abbe8eaabbe1fee52c1c1ae2a4f763975c06a8e1e40a50c000"
+metafile = true
+
+[[files]]
+file = "mods/underground-bunkers.pw.toml"
+hash = "cacdbe479d4e9e3f0058443de7bd3c00fe8cb5121bd6ffd8ce88ebe07891de34"
 metafile = true
 
 [[files]]

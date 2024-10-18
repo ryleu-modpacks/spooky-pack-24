@@ -1,0 +1,13 @@
+name = "Underground Bunkers"
+filename = "UndergroundBunkers-1.0.5-1.20.x-forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MRK4tULJ/versions/NFJEQGsD/UndergroundBunkers-1.0.5-1.20.x-forge.jar"
+hash-format = "sha1"
+hash = "026fdd7ca5336437913ee2612c2523b11fa4174d"
+
+[update]
+[update.modrinth]
+mod-id = "MRK4tULJ"
+version = "NFJEQGsD"
