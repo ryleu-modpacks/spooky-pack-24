@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "simpleradio:antenna"
+        },
+        {
+            "item": "createaddition:capacitor"
+        },
+        {
+            "item": "create:redstone_link"
+        }
+    ],
+    "result": {
+        "item": "simpleradio:transmitting_module"
+    }
+}

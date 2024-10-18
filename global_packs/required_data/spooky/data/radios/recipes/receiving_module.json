@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "simpleradio:antenna"
+        },
+        {
+            "item": "createaddition:copper_wire"
+        },
+        {
+            "item": "create:redstone_link"
+        }
+    ],
+    "result": {
+        "item": "simpleradio:receiving_module"
+    }
+}

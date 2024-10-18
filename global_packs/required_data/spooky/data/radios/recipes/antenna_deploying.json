@@ -1,0 +1,16 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+        {
+            "item": "createaddition:iron_rod"
+        },
+        {
+            "item": "minecraft:iron_nugget"
+        }
+    ],
+    "results": [
+        {
+            "item": "simpleradio:antenna"
+        }
+    ]
+}

@@ -170,7 +170,7 @@ hash = "8eefb30996590c6ba757ade03b9ab65d63210080de329af5cac345396f668057"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "0bc058c7a0c8e5232e6b653f0668b9bbd6513f14fcb39714119e6671606030b5"
+hash = "f4af9155414cb43fe6cac8409961844ad1218be9446bfd3ba1d280eb93c92077"
 
 [[files]]
 file = "config/waterdripsound-client.toml"
@@ -1041,11 +1041,6 @@ file = "global_packs/required_data/progression_reborn/pack.mcmeta"
 hash = "66458be995ca98e6e8a8f39ff297973ce8912ac70e179b73ab1950d1a1edfd63"
 
 [[files]]
-file = "global_packs/required_data/simple-radio-ffapi-patch.pw.toml"
-hash = "eecf95338ca2aaa7e07e84792584791910fa813c7493b4d2d3c5d3f7a0fbb830"
-metafile = true
-
-[[files]]
 file = "global_packs/required_data/spooky/data/create/recipes/compacting/coal.json"
 hash = "9f78c57680264bf7a967bcbf5a6ac23d25f7da0404654c39aafb5b7746504610"
 
@@ -1080,6 +1075,50 @@ hash = "2ca2ba83b9c11cf3295f3786d3c8b5335257254b2e4ade716022eae29ec457bc"
 [[files]]
 file = "global_packs/required_data/spooky/data/minecraft/tags/functions/tick.json"
 hash = "2c8e0b32ef94e9f09bdf9bfe9d748fbbfc9951bfca75586fbf7bd2dbdc99427b"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/radios/recipes/antenna.json"
+hash = "5289b1644a66862eaf0a3e30816e27093e20d425172b8d1e307b03b2ea337883"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/radios/recipes/antenna_deploying.json"
+hash = "78cfc526ec8ac94cd3d797fd8d1163d842b8318c69a85db4464a3f1d635d3dfb"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/radios/recipes/listener_module.json"
+hash = "5af0ba83a989aab6489c56498a04761beb9ac8f47d7e5b324f3431fa0744e3e1"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/radios/recipes/microphone.json"
+hash = "b04f543d598ca8ffff78b42f3fee26e8dab1f0ba88215b964ecc4c990593ebfe"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/radios/recipes/radio.json"
+hash = "2b8928dc139a6da31cb1b2f247cae574e82c1bec08362fcc7efc4dd108b30cdc"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/radios/recipes/receiving_module.json"
+hash = "5a903e3eb9774736130d3b83b1c92ca2f2a30b073190233b3e6be53fb4721e3a"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/radios/recipes/speaker.json"
+hash = "69b3629fe84c87d0f8121812d4ea0c50f85d545ff7ba9be192db3e48375dd3ab"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/radios/recipes/speaker_module.json"
+hash = "11376b6347f6fb9664aaa315eb9b7736ef5054b7d073a1a67bf3add003d58e99"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/radios/recipes/spuddie_talkie.json"
+hash = "54e089fcdfdc248fb107e9b998a14c3f155fc0607143ec286f330772e6d4fc2f"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/radios/recipes/trabsceiver.json"
+hash = "054a0dcdeaedf228f1c0d9fdf124614e472bef077ffe76dd420379d7fa06761d"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/radios/recipes/transmitting_module.json"
+hash = "c24090e9a43f8c579f5a893730f8e97a8f375dc8be6004bd9fe37a3842eeb0af"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/sanitydim/recipes/garland.json"
@@ -1143,7 +1182,7 @@ hash = "c30d333d9e870a4fb3a8ae27bbb59b187e9845d05681adde204f96b6210d34af"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/sanity/tick.mcfunction"
-hash = "5e4261bcdcfb53d0bc724b84f31671cd61c178fd4c93ca9953160db1cb306472"
+hash = "6ca0d4606ea4f3f57b098d6fe527333019b4d02ee684f50d5b915799a7fe0165"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/tick.mcfunction"
@@ -1540,3 +1579,7 @@ metafile = true
 file = "shaderpacks/psx-shader.pw.toml"
 hash = "cae1e279176423750315d392d152f800c8b34ee870b1c2e60600fdd7f4b7630b"
 metafile = true
+
+[[files]]
+file = "spyglass.json"
+hash = "986ad424f8378cbe1faa4519be4f5e741950026dfa4c2b3cc8807068f913ab37"

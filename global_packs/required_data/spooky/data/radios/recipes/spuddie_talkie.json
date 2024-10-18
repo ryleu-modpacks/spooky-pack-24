@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AZC",
+        "BPD",
+        "WSW"
+    ],
+    "key": {
+        "A": {
+            "item": "simpleradio:listener_module"
+        },
+        "B": {
+            "item": "simpleradio:transmitting_module"
+        },
+        "C": {
+            "item": "simpleradio:speaker_module"
+        },
+        "D": {
+            "item": "simpleradio:receiving_module"
+        },
+        "Z": {
+            "item": "createaddition:zinc_sheet"
+        },
+        "S": {
+            "item": "create:copper_sheet"
+        },
+        "P": {
+            "item": "minecraft:potato"
+        },
+        "W": {
+            "item": "createaddition:copper_wire"
+        }
+    },
+    "result": {
+        "item": "simpleradio:spuddie_talkie"
+    }
+}

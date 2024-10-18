@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ISI",
+        "IRI",
+        "III"
+    ],
+    "key": {
+        "I": {
+            "item": "create:iron_sheet"
+        },
+        "S": {
+            "item": "simpleradio:speaker_module"
+        },
+        "R": {
+            "item": "simpleradio:receiving_module"
+        }
+    },
+    "result": {
+        "item": "simpleradio:radio"
+    }
+}
