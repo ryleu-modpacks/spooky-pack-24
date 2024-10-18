@@ -154,7 +154,7 @@ hash = "fb9c0763f616868b09c9c178c2c7644e2b7c4578e326d16bd19a705cfee0fa74"
 
 [[files]]
 file = "config/sanitydim/default.toml"
-hash = "76c80f2e58455bb6010c0e8995c1ebac7ea16503ae1effc3ebaca1ee55a688a4"
+hash = "31f1acd553b78c052389694b7268cbed230cf6d225a26f302e6e3f2fa9a846de"
 
 [[files]]
 file = "config/sculkhorde_config.toml"
@@ -1158,7 +1158,7 @@ hash = "58ca9dcf1bdfe0d6932273da01c404da70170bdfc4258ba493eaedb9dfe03011"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/on_pick_up_hearts.mcfunction"
-hash = "69685556c9241d0f8c1c2fe274c56e167177793e359c64cf0861c69ecd3915ab"
+hash = "3faa86784f25a349a0a8f4b520b840209adebd045675d23f31c3f0106b63b48c"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/on_pick_up_recovery_compass.mcfunction"
@@ -1166,7 +1166,7 @@ hash = "98875fb7c0db011376d8edc95e7168eaceaf00fdfea1a8d08a693e74823f8aef"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/on_respawn.mcfunction"
-hash = "9a678df2d940ac2fa9b923478af10fca0a41e6af7317a40379f1cca446aa40d2"
+hash = "2fdcaef7b91ede5158db95751ad842b04f0300dfe4c06ffc62526cec3e9cb3e0"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/tick.mcfunction"

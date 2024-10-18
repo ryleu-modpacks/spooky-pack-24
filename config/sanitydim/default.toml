@@ -168,10 +168,10 @@
 	[sanity.multiplayer]
 		#Being around players with sanity higher than 50% gives this amount of sanity per second
 		#Range: -100.0 ~ 100.0
-		sane_player_company = 0.3
+		sane_player_company = 0.6
 		#Being around players with sanity lower than 50% gives this amount of sanity per second
 		#Range: -100.0 ~ 100.0
-		insane_player_company = 0.1
+		insane_player_company = 0.3
 
 	#Entities configuration
 	[sanity.entity]
