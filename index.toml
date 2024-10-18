@@ -1477,6 +1477,11 @@ hash = "0483b96f9f55ff85e133b5a1ae23df25e4d5b452a9f9a20851934b71a83c7529"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-radio.pw.toml"
+hash = "e6e0bdad9c1c19ddd2ab78f6ab2a5616403d5ec7c3b782e71fe5db3e003a855b"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extras.pw.toml"
 hash = "f7bf05ab2ac48506126085e17ca7ace8969d1eb5e225f9fbf970c2ff9bf0cbe5"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Simple Voice Radio"
+filename = "SimpleRadio-forge-1.20.1-2.4.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/S7b8mMXS/versions/WQ689CyS/SimpleRadio-forge-1.20.1-2.4.6.1.jar"
+hash-format = "sha1"
+hash = "f9851e3c2a498c1669e82918ee6eaf49e38f2307"
+
+[update]
+[update.modrinth]
+mod-id = "S7b8mMXS"
+version = "WQ689CyS"
