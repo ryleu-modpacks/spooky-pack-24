@@ -1,6 +1,6 @@
 name = "Underground Bunkers"
 filename = "UndergroundBunkers-1.0.5-1.20.x-forge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MRK4tULJ/versions/NFJEQGsD/UndergroundBunkers-1.0.5-1.20.x-forge.jar"
