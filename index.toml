@@ -1086,7 +1086,7 @@ hash = "78cfc526ec8ac94cd3d797fd8d1163d842b8318c69a85db4464a3f1d635d3dfb"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/radios/recipes/listener_module.json"
-hash = "5af0ba83a989aab6489c56498a04761beb9ac8f47d7e5b324f3431fa0744e3e1"
+hash = "8dd80e6b9f0f5dd24acf4d6286513a816d6b8ea783144a6b2c66d6b37aca0014"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/radios/recipes/microphone.json"
@@ -1095,6 +1095,10 @@ hash = "b04f543d598ca8ffff78b42f3fee26e8dab1f0ba88215b964ecc4c990593ebfe"
 [[files]]
 file = "global_packs/required_data/spooky/data/radios/recipes/radio.json"
 hash = "2b8928dc139a6da31cb1b2f247cae574e82c1bec08362fcc7efc4dd108b30cdc"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/radios/recipes/radiosmither.json"
+hash = "d26583a7b3a7601b4adf6dd703b4901a8694a00d0a98a412876830a97a2a5d35"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/radios/recipes/receiving_module.json"
@@ -1106,7 +1110,7 @@ hash = "69b3629fe84c87d0f8121812d4ea0c50f85d545ff7ba9be192db3e48375dd3ab"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/radios/recipes/speaker_module.json"
-hash = "11376b6347f6fb9664aaa315eb9b7736ef5054b7d073a1a67bf3add003d58e99"
+hash = "96ce2c9ab6993f88ea78f8352c08e5a6486ee23733d36490ee3c0e4923a98113"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/radios/recipes/spuddie_talkie.json"
