@@ -1,0 +1,13 @@
+name = "Simple Radio FFAPI Patch"
+filename = "SimpleRadio-FFAPI-Patch.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GBOxOZIv/versions/O9U1GEjq/SimpleRadio-FFAPI-Patch.zip"
+hash-format = "sha1"
+hash = "d334584d6416ed535f1a730b430905d1886f9807"
+
+[update]
+[update.modrinth]
+mod-id = "GBOxOZIv"
+version = "O9U1GEjq"

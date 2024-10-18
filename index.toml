@@ -1041,6 +1041,11 @@ file = "global_packs/required_data/progression_reborn/pack.mcmeta"
 hash = "66458be995ca98e6e8a8f39ff297973ce8912ac70e179b73ab1950d1a1edfd63"
 
 [[files]]
+file = "global_packs/required_data/simple-radio-ffapi-patch.pw.toml"
+hash = "eecf95338ca2aaa7e07e84792584791910fa813c7493b4d2d3c5d3f7a0fbb830"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/spooky/data/create/recipes/compacting/coal.json"
 hash = "9f78c57680264bf7a967bcbf5a6ac23d25f7da0404654c39aafb5b7746504610"
 
