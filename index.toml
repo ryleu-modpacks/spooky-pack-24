@@ -1126,7 +1126,7 @@ hash = "c24090e9a43f8c579f5a893730f8e97a8f375dc8be6004bd9fe37a3842eeb0af"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/sanitydim/recipes/garland.json"
-hash = "0a68f6cb7d4176f6636ba7a38c246136c5aeb11012712787768c5c5445ff8656"
+hash = "01c5febbe626ae7225c0b64f51c7e19c9b71e7ef9eb80b5dc2fe29415c6b07eb"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/advancements/death/died.json"
@@ -1158,7 +1158,7 @@ hash = "58ca9dcf1bdfe0d6932273da01c404da70170bdfc4258ba493eaedb9dfe03011"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/on_pick_up_hearts.mcfunction"
-hash = "3faa86784f25a349a0a8f4b520b840209adebd045675d23f31c3f0106b63b48c"
+hash = "fefe1ffa41e27baa99a98e79ddea2607520203fe6088cc425ba60f452c12118f"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/on_pick_up_recovery_compass.mcfunction"
@@ -1166,7 +1166,7 @@ hash = "98875fb7c0db011376d8edc95e7168eaceaf00fdfea1a8d08a693e74823f8aef"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/on_respawn.mcfunction"
-hash = "2fdcaef7b91ede5158db95751ad842b04f0300dfe4c06ffc62526cec3e9cb3e0"
+hash = "b76b8c1530a0afd2952eab11a2d7cfdd21ae9365f52f0c1a17a92667e5844c9a"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/tick.mcfunction"
@@ -1186,7 +1186,7 @@ hash = "c30d333d9e870a4fb3a8ae27bbb59b187e9845d05681adde204f96b6210d34af"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/sanity/tick.mcfunction"
-hash = "6ca0d4606ea4f3f57b098d6fe527333019b4d02ee684f50d5b915799a7fe0165"
+hash = "3b3491d16126da52b68b13b87725e3f67d254e0aa20c3eef2f96dc2e9412de53"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/tick.mcfunction"
