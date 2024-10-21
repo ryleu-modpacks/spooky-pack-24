@@ -1295,6 +1295,11 @@ hash = "e4d2183d31b5ea13fcddb0f370030c9c1556fcefd80297dda51cc64adb5a4ebc"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "ef744ef9850c42a100e7ba88527b7bc486079f43c0e5234162df25391a2197a3"
+metafile = true
+
+[[files]]
 file = "mods/darcenos-minecarts.pw.toml"
 hash = "9079368e884fb97f2902d3704aa2965fa2040864557e9e222428626acb005f0f"
 metafile = true
