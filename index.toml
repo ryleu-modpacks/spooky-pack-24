@@ -1158,7 +1158,7 @@ hash = "58ca9dcf1bdfe0d6932273da01c404da70170bdfc4258ba493eaedb9dfe03011"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/on_pick_up_hearts.mcfunction"
-hash = "fefe1ffa41e27baa99a98e79ddea2607520203fe6088cc425ba60f452c12118f"
+hash = "6855a916ce074df9111604fa86f21ad4ecd9224969adcc84ae34929526641f31"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/on_pick_up_recovery_compass.mcfunction"
@@ -1302,6 +1302,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "e4d2183d31b5ea13fcddb0f370030c9c1556fcefd80297dda51cc64adb5a4ebc"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "ef744ef9850c42a100e7ba88527b7bc486079f43c0e5234162df25391a2197a3"
 metafile = true
 
 [[files]]
