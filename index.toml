@@ -1270,6 +1270,16 @@ hash = "1ddd695719279fef8f2ff10ec11dfe906c2b3c427d7e2194a204f351b2970f19"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "a69f6a12d1cbf4eb25ae928796dc96f51c4f26081665c413be35172f1de558b8"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "23dc3517bb479f4a7275bedc75ea45362aef0ff1b240d8cd0fde2fd152032cdf"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "8558e20c20786f463b645ee3c6a6089a73a54dc32ca1adb69836d7b1517b190e"
 metafile = true
