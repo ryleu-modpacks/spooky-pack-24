@@ -1193,6 +1193,14 @@ file = "global_packs/required_data/spooky/data/spooky/functions/tick.mcfunction"
 hash = "87aa8c38425a3f58c2b29ad0da3cdd458748fc5ff97d60b7f8c3d22ac6a410b7"
 
 [[files]]
+file = "global_packs/required_data/spooky/data/spooky/recipes/create_to_progreb_copper_nuggets.json"
+hash = "50589df8cd4d8e669e7c4099cc1115cc1bf757559557cee68e01a0e01b72a889"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/spooky/recipes/progreb_to_create_copper_nuggets.json"
+hash = "b3d6ac3c750b29f01a541521c286f3ad5f5624e821725686418bcd4ff882f3dd"
+
+[[files]]
 file = "global_packs/required_data/spooky/pack.mcmeta"
 hash = "f504435b2a74058e83622730a3aca74cecc921a2998f60aa122f2b3f8a7ffec7"
 
