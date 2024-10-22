@@ -1265,6 +1265,11 @@ hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "7edd7a40b9be16a2e66fb6c63d28c5a759007dd1f7c0a0bc1fe3bf2a74be96a9"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "1ddd695719279fef8f2ff10ec11dfe906c2b3c427d7e2194a204f351b2970f19"
 metafile = true
