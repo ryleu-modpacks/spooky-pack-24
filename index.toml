@@ -1355,6 +1355,11 @@ hash = "fc1ee0732975e55fb423e03e39b0f318cdc3c6b30b84601ffe3a814b77743782"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "11ddb013b855e1f4bc08bf86f4bc2f62fe1229d39fc9d55172f9f2e1a584e645"
+metafile = true
+
+[[files]]
 file = "mods/female-gender.pw.toml"
 hash = "e5223fdcd1bdb827f387e077ebb964f849cd4e58c2d3ea763fc199e7a7278f48"
 metafile = true
@@ -1502,6 +1507,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "c1eb1e4480ab2c769504d0460bc974191e9e99f9d08702f7c88cd47498f9b5df"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "0659af1a535afdcc31c69c4f2bdd5371a785119ab942e70ce5b2db8460de21cc"
 metafile = true
 
 [[files]]
