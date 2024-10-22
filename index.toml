@@ -1158,7 +1158,7 @@ hash = "58ca9dcf1bdfe0d6932273da01c404da70170bdfc4258ba493eaedb9dfe03011"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/on_pick_up_hearts.mcfunction"
-hash = "6855a916ce074df9111604fa86f21ad4ecd9224969adcc84ae34929526641f31"
+hash = "624ef3e50b1bd14d63765485b51468217531fc5edfd0e430bd097f32fef3747a"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/spooky/functions/death/on_pick_up_recovery_compass.mcfunction"
