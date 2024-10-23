@@ -1,0 +1,13 @@
+name = "Jade Addons (NeoForge)"
+filename = "JadeAddons-1.20.1-Forge-5.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xuDOzCLy/versions/PSP77dD5/JadeAddons-1.20.1-Forge-5.3.1.jar"
+hash-format = "sha1"
+hash = "140a393ae43519bcb9018a7e00c300f930d659dc"
+
+[update]
+[update.modrinth]
+mod-id = "xuDOzCLy"
+version = "PSP77dD5"

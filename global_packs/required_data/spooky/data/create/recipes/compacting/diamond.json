@@ -6,17 +6,15 @@
             "item": "minecraft:coal_block"
         },
         {
-            "item": "minecraft:coal_block"
-        },
-        {
             "fluid": "minecraft:lava",
-            "amount": 500,
+            "amount": 250,
             "nbt": {}
         }
     ],
     "results": [
         {
-            "item": "minecraft:diamond"
+            "item": "progression_reborn:diamond_shard",
+            "chance": 0.25
         }
     ]
 }

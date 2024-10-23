@@ -1042,11 +1042,11 @@ hash = "66458be995ca98e6e8a8f39ff297973ce8912ac70e179b73ab1950d1a1edfd63"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/create/recipes/compacting/coal.json"
-hash = "9f78c57680264bf7a967bcbf5a6ac23d25f7da0404654c39aafb5b7746504610"
+hash = "5437f696895ec5d51571fdfaddeada416efa7e9b767fa7863467c39b3f2730ff"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/create/recipes/compacting/diamond.json"
-hash = "211f5d74a71bf24dbe9c12ff9f15305b1e44a1cdbdedf38ec498405f77576103"
+hash = "2cf23f67a75f507ab537389bf5cf5dd73d1e7299eb2216f8a8fce8bd4b591b3b"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/create/recipes/compacting/tuff.json"
@@ -1059,6 +1059,10 @@ hash = "9ba0c197c71320d819f0fcb92120b572bd49d5761170a5283637c53a7f63c463"
 [[files]]
 file = "global_packs/required_data/spooky/data/create/recipes/splashing/infested_gravel.json"
 hash = "07cf0dae42a0f0baf27fc03271a0f25f3c334c56024429cdaff3fc5317a9a270"
+
+[[files]]
+file = "global_packs/required_data/spooky/data/create_dd/recipes/seething/diamond_shard_from_coal_block.json"
+hash = "e1e07d481929e50d835dd0e60eb7c02108cdd2d523947b5c85635df2dfedc563"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/minecraft/loot_tables/entities/warden.json"
@@ -1440,6 +1444,16 @@ metafile = true
 [[files]]
 file = "mods/ironchests.pw.toml"
 hash = "9f7a8ad731e2454ad29de4bc85ed100eff8f21f0516fa9a8cf58939ad2ba16cf"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "5e27d5c0d86c402d0a142f407bb14866241bbb6866d00d84fd00d38f5d76ab2e"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e8898a30f64231c01586d60f642bda223a03c0ba7edd107fbbc21c21fe09a9c0"
 metafile = true
 
 [[files]]
