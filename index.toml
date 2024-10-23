@@ -1458,6 +1458,11 @@ hash = "826283eb4fde82ebc8bf7f7d4c5c73be262a8606c27b63c446d617f40830c22f"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "e0b3868f01ac63c79a851f6a89bb6f8e763c6fac5ceeb0f63373f1400acb5ca4"
+metafile = true
+
+[[files]]
 file = "mods/loud-horns.pw.toml"
 hash = "ee6e31ed409efbe9fac8f8fd90979c7743487bd4b768b8c59f71779b3eae9cfd"
 metafile = true
