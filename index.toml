@@ -1046,7 +1046,7 @@ hash = "5437f696895ec5d51571fdfaddeada416efa7e9b767fa7863467c39b3f2730ff"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/create/recipes/compacting/diamond.json"
-hash = "2cf23f67a75f507ab537389bf5cf5dd73d1e7299eb2216f8a8fce8bd4b591b3b"
+hash = "a307bb1ff69eeca68f4a7efa2564cf65b3862715ef7fe2c4a63dd7c3ae6fd42a"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/create/recipes/compacting/tuff.json"
@@ -1062,7 +1062,7 @@ hash = "07cf0dae42a0f0baf27fc03271a0f25f3c334c56024429cdaff3fc5317a9a270"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/create_dd/recipes/seething/diamond_shard_from_coal_block.json"
-hash = "e1e07d481929e50d835dd0e60eb7c02108cdd2d523947b5c85635df2dfedc563"
+hash = "edc41f8669cf0fa4172d8468c50c1cd3b8682e99bcab72d3110ebcb855c3aafa"
 
 [[files]]
 file = "global_packs/required_data/spooky/data/minecraft/loot_tables/entities/warden.json"
