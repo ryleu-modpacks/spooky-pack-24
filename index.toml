@@ -1642,6 +1642,11 @@ hash = "1b3d12a113396cf27fac3eaefadcf310646e28464fc79dd5f30f38cbe1bca336"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
+metafile = true
+
+[[files]]
 file = "mods/stamina-for-tweakers.pw.toml"
 hash = "90d14db1585b25ea5d2c797faa590ebfe3f0e8b3f42163cb9086f0ba5b834f6c"
 metafile = true
